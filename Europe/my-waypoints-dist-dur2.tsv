@@ -1,0 +1,991 @@
+waypoint1	waypoint2	distance_m	duration_s
+Innsbruck, Austria	Munich, Germany	163251	6932
+Innsbruck, Austria	Pag, Croatia	818266	31703
+Venice, Italy	Innsbruck, Austria	387413	14130
+Innsbruck, Austria	Tuscany, Italy	490620	18191
+Innsbruck, Austria	Florence, Italy	501035	18507
+Innsbruck, Austria	Rome, Italy	758725	27040
+Innsbruck, Austria	Vatican City	763430	27161
+Innsbruck, Austria	Amalfi, Italy	1007507	36769
+Innsbruck, Austria	Gozo, Malta	1814990	79326
+Innsbruck, Austria	Dubrovnik, Croatia	1104875	42156
+Innsbruck, Austria	Santorini, Thira, Greece	2398163	109172
+Innsbruck, Austria	Rila Monastery, Rilski manastir, Bulgaria	1471747	54248
+Innsbruck, Austria	Istanbul, Turkey	1928540	69326
+Innsbruck, Austria	Sighisoara, Mures County, Romania	1364881	49223
+Innsbruck, Austria	Budapest, Hungary	724817	25276
+Vienna, Austria	Innsbruck, Austria	476177	17694
+Innsbruck, Austria	Prague, Czech Republic	551555	19606
+Innsbruck, Austria	Krakow, Poland	946431	33409
+Innsbruck, Austria	Jägala Waterfall, 74205 Harjumaa, Estonia	2228043	86675
+Innsbruck, Austria	Lapland, Finland	3127843	122537
+Innsbruck, Austria	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	3017299	116504
+Innsbruck, Austria	Bergen, Norway	2129070	90441
+Innsbruck, Austria	Copenhagen, Denmark	1149338	46895
+Innsbruck, Austria	Berlin, Germany	751550	27199
+Innsbruck, Austria	Amsterdam, Netherlands	931973	34328
+Innsbruck, Austria	Keukenhof, Stationsweg, Lisse, Netherlands	958142	35087
+Innsbruck, Austria	Edinburgh, United Kingdom	1863242	69485
+Inverness, United Kingdom	Innsbruck, Austria	2159487	78753
+Innsbruck, Austria	Ballybunion, Ireland	2129658	84839
+Innsbruck, Austria	Cliffs of Moher, Clare, Ireland	2127667	84674
+Innsbruck, Austria	Cornwall, England	1638371	60808
+Innsbruck, Austria	Stonehenge, Amesbury, United Kingdom	1359600	49752
+London, United Kingdom	Innsbruck, Austria	1235915	46784
+Brussels, Belgium	Innsbruck, Austria	836270	32288
+Innsbruck, Austria	Paris, France	929983	33693
+Innsbruck, Austria	Pamplona, Spain	1554951	56960
+Innsbruck, Austria	Lagos, Portugal	2625802	88767
+Innsbruck, Austria	Granada, Spain	2240788	75909
+Innsbruck, Austria	Ibiza, Spain	1932673	71731
+Barcelona, Spain	Innsbruck, Austria	1365565	48697
+Innsbruck, Austria	Luberone, Bonnieux, France	928578	34867
+Innsbruck, Austria	Nice, France	700463	26333
+Innsbruck, Austria	Monte Carlo, Monaco	686494	25951
+Interlaken, Switzerland	Innsbruck, Austria	381292	17608
+Pag, Croatia	Munich, Germany	776961	30182
+Venice, Italy	Munich, Germany	542814	20037
+Tuscany, Italy	Munich, Germany	646021	24098
+Florence, Italy	Munich, Germany	656436	24415
+Rome, Italy	Munich, Germany	914126	32947
+Vatican City	Munich, Germany	918831	33068
+Amalfi, Italy	Munich, Germany	1162908	42677
+Gozo, Malta	Munich, Germany	1970392	85233
+Dubrovnik, Croatia	Munich, Germany	1063570	40635
+Santorini, Thira, Greece	Munich, Germany	2356858	107651
+Rila Monastery, Rilski manastir, Bulgaria	Munich, Germany	1430442	52727
+Istanbul, Turkey	Munich, Germany	1887235	67805
+Sighisoara, Mures County, Romania	Munich, Germany	1323576	47702
+Budapest, Hungary	Munich, Germany	683512	23754
+Vienna, Austria	Munich, Germany	434872	16173
+Prague, Czech Republic	Munich, Germany	385502	13593
+Krakow, Poland	Munich, Germany	912152	31203
+Jägala Waterfall, 74205 Harjumaa, Estonia	Munich, Germany	2061990	80663
+Lapland, Finland	Munich, Germany	2961790	116525
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Munich, Germany	2851246	110491
+Bergen, Norway	Munich, Germany	1963017	84428
+Copenhagen, Denmark	Munich, Germany	983286	40883
+Berlin, Germany	Munich, Germany	585497	21187
+Amsterdam, Netherlands	Munich, Germany	825103	28881
+Keukenhof, Stationsweg, Lisse, Netherlands	Munich, Germany	851272	29641
+Edinburgh, United Kingdom	Munich, Germany	1773310	64487
+Inverness, United Kingdom	Munich, Germany	2069555	73755
+Ballybunion, Ireland	Munich, Germany	2039726	79841
+Cliffs of Moher, Clare, Ireland	Munich, Germany	2037735	79676
+Cornwall, England	Munich, Germany	1548439	55810
+Stonehenge, Amesbury, United Kingdom	Munich, Germany	1269669	44753
+London, United Kingdom	Munich, Germany	1145983	41786
+Brussels, Belgium	Munich, Germany	781019	27236
+Paris, France	Munich, Germany	840051	28695
+Pamplona, Spain	Munich, Germany	1608796	56114
+Lagos, Portugal	Munich, Germany	2634764	88325
+Granada, Spain	Munich, Germany	2249750	75467
+Ibiza, Spain	Munich, Germany	1941634	71289
+Barcelona, Spain	Munich, Germany	1374526	48255
+Luberone, Bonnieux, France	Munich, Germany	1000085	36367
+Nice, France	Munich, Germany	804154	31202
+Monte Carlo, Monaco	Munich, Germany	790184	30821
+Interlaken, Switzerland	Munich, Germany	433259	17606
+Venice, Italy	Pag, Croatia	371965	20388
+Pag, Croatia	Tuscany, Italy	615527	29077
+Florence, Italy	Pag, Croatia	625942	29393
+Rome, Italy	Pag, Croatia	540457	41218
+Vatican City	Pag, Croatia	531392	41902
+Amalfi, Italy	Pag, Croatia	704628	49893
+Gozo, Malta	Pag, Croatia	1507725	91015
+Dubrovnik, Croatia	Pag, Croatia	389619	16338
+Santorini, Thira, Greece	Pag, Croatia	2123016	99247
+Pag, Croatia	Rila Monastery, Rilski manastir, Bulgaria	1196600	44323
+Pag, Croatia	Istanbul, Turkey	1653393	59401
+Pag, Croatia	Sighisoara, Mures County, Romania	1292127	46355
+Budapest, Hungary	Pag, Croatia	655716	22540
+Vienna, Austria	Pag, Croatia	669740	24625
+Prague, Czech Republic	Pag, Croatia	990474	36895
+Krakow, Poland	Pag, Croatia	1129371	40995
+Jägala Waterfall, 74205 Harjumaa, Estonia	Pag, Croatia	2362494	95042
+Lapland, Finland	Pag, Croatia	3750404	145776
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Pag, Croatia	3639860	139742
+Bergen, Norway	Pag, Croatia	2751631	113679
+Copenhagen, Denmark	Pag, Croatia	1771899	70134
+Berlin, Germany	Pag, Croatia	1339048	50107
+Amsterdam, Netherlands	Pag, Croatia	1627303	58552
+Pag, Croatia	Keukenhof, Stationsweg, Lisse, Netherlands	1653472	59311
+Edinburgh, United Kingdom	Pag, Croatia	2555735	94122
+Inverness, United Kingdom	Pag, Croatia	2851980	103391
+Ballybunion, Ireland	Pag, Croatia	2822151	109477
+Cliffs of Moher, Clare, Ireland	Pag, Croatia	2820160	109312
+Cornwall, England	Pag, Croatia	2330863	85446
+Stonehenge, Amesbury, United Kingdom	Pag, Croatia	2052093	74389
+London, United Kingdom	Pag, Croatia	1928408	71422
+Brussels, Belgium	Pag, Croatia	1583220	56906
+Paris, France	Pag, Croatia	1469101	57170
+Pamplona, Spain	Pag, Croatia	1884105	71891
+Lagos, Portugal	Pag, Croatia	2854971	102342
+Granada, Spain	Pag, Croatia	2469957	89485
+Ibiza, Spain	Pag, Croatia	2161841	85307
+Barcelona, Spain	Pag, Croatia	1594733	62272
+Luberone, Bonnieux, France	Pag, Croatia	1157747	48442
+Nice, France	Pag, Croatia	929632	39909
+Monte Carlo, Monaco	Pag, Croatia	915662	39527
+Interlaken, Switzerland	Pag, Croatia	879262	40166
+Venice, Italy	Tuscany, Italy	257796	10060
+Venice, Italy	Florence, Italy	268211	10377
+Venice, Italy	Rome, Italy	525901	18909
+Venice, Italy	Vatican City	530606	19030
+Venice, Italy	Amalfi, Italy	774683	28639
+Venice, Italy	Gozo, Malta	1582166	71196
+Venice, Italy	Dubrovnik, Croatia	832294	32077
+Venice, Italy	Santorini, Thira, Greece	2186731	101217
+Venice, Italy	Rila Monastery, Rilski manastir, Bulgaria	1260314	46293
+Venice, Italy	Istanbul, Turkey	1717108	61370
+Venice, Italy	Sighisoara, Mures County, Romania	1340605	47723
+Venice, Italy	Budapest, Hungary	704194	23907
+Venice, Italy	Vienna, Austria	610088	21403
+Venice, Italy	Prague, Czech Republic	813775	30884
+Venice, Italy	Krakow, Poland	1069719	37773
+Venice, Italy	Jägala Waterfall, 74205 Harjumaa, Estonia	2302842	91820
+Venice, Italy	Lapland, Finland	3507675	135751
+Venice, Italy	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	3397130	129717
+Venice, Italy	Bergen, Norway	2508902	103654
+Venice, Italy	Copenhagen, Denmark	1529170	60109
+Venice, Italy	Berlin, Germany	1131382	40413
+Venice, Italy	Amsterdam, Netherlands	1308493	47404
+Venice, Italy	Keukenhof, Stationsweg, Lisse, Netherlands	1334662	48163
+Venice, Italy	Edinburgh, United Kingdom	2190683	78057
+Venice, Italy	Inverness, United Kingdom	2486928	87326
+Venice, Italy	Ballybunion, Ireland	2457099	93412
+Venice, Italy	Cliffs of Moher, Clare, Ireland	2455108	93247
+Venice, Italy	Cornwall, England	1965811	69381
+Venice, Italy	Stonehenge, Amesbury, United Kingdom	1687041	58324
+Venice, Italy	London, United Kingdom	1563356	55357
+Venice, Italy	Brussels, Belgium	1170865	41599
+Venice, Italy	Paris, France	1111370	38154
+Venice, Italy	Pamplona, Spain	1526375	52874
+Venice, Italy	Lagos, Portugal	2497240	83326
+Venice, Italy	Granada, Spain	2112226	70468
+Venice, Italy	Ibiza, Spain	1804110	66290
+Venice, Italy	Barcelona, Spain	1237002	43256
+Venice, Italy	Luberone, Bonnieux, France	800016	29426
+Venice, Italy	Nice, France	571901	20892
+Venice, Italy	Monte Carlo, Monaco	557931	20511
+Venice, Italy	Interlaken, Switzerland	521531	21150
+Florence, Italy	Tuscany, Italy	796	325
+Rome, Italy	Tuscany, Italy	273945	10996
+Vatican City	Tuscany, Italy	278650	11117
+Amalfi, Italy	Tuscany, Italy	522727	20726
+Gozo, Malta	Tuscany, Italy	1330210	63282
+Dubrovnik, Croatia	Tuscany, Italy	1074566	40799
+Santorini, Thira, Greece	Tuscany, Italy	1847982	116832
+Rila Monastery, Rilski manastir, Bulgaria	Tuscany, Italy	1502587	55015
+Istanbul, Turkey	Tuscany, Italy	1959381	70093
+Sighisoara, Mures County, Romania	Tuscany, Italy	1582878	56445
+Budapest, Hungary	Tuscany, Italy	946467	32630
+Vienna, Austria	Tuscany, Italy	852361	30125
+Prague, Czech Republic	Tuscany, Italy	1033338	36884
+Krakow, Poland	Tuscany, Italy	1311992	46495
+Jägala Waterfall, 74205 Harjumaa, Estonia	Tuscany, Italy	2545115	100542
+Lapland, Finland	Tuscany, Italy	3609626	139816
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Tuscany, Italy	3499081	133782
+Bergen, Norway	Tuscany, Italy	2610853	107719
+Copenhagen, Denmark	Tuscany, Italy	1631121	64174
+Berlin, Germany	Tuscany, Italy	1233333	44477
+Amsterdam, Netherlands	Tuscany, Italy	1380785	49439
+Keukenhof, Stationsweg, Lisse, Netherlands	Tuscany, Italy	1405497	49997
+Edinburgh, United Kingdom	Tuscany, Italy	2231137	80100
+Inverness, United Kingdom	Tuscany, Italy	2527382	89368
+Ballybunion, Ireland	Tuscany, Italy	2497553	95454
+Cliffs of Moher, Clare, Ireland	Tuscany, Italy	2495562	95289
+Cornwall, England	Tuscany, Italy	2006266	71423
+Stonehenge, Amesbury, United Kingdom	Tuscany, Italy	1727496	60367
+London, United Kingdom	Tuscany, Italy	1603810	57399
+Brussels, Belgium	Tuscany, Italy	1213930	43731
+Paris, France	Tuscany, Italy	1151824	40196
+Pamplona, Spain	Tuscany, Italy	1379174	49518
+Lagos, Portugal	Tuscany, Italy	2350039	79970
+Granada, Spain	Tuscany, Italy	1965025	67112
+Ibiza, Spain	Tuscany, Italy	1656909	62934
+Barcelona, Spain	Tuscany, Italy	1089801	39900
+Luberone, Bonnieux, France	Tuscany, Italy	652815	26070
+Nice, France	Tuscany, Italy	424700	17536
+Monte Carlo, Monaco	Tuscany, Italy	410730	17155
+Interlaken, Switzerland	Tuscany, Italy	564596	23281
+Rome, Italy	Florence, Italy	278665	11039
+Florence, Italy	Vatican City	283371	11160
+Florence, Italy	Amalfi, Italy	527447	20769
+Florence, Italy	Gozo, Malta	1334931	63325
+Florence, Italy	Dubrovnik, Croatia	1073863	40525
+Santorini, Thira, Greece	Florence, Italy	1852703	116875
+Florence, Italy	Rila Monastery, Rilski manastir, Bulgaria	1501884	54740
+Florence, Italy	Istanbul, Turkey	1958678	69818
+Florence, Italy	Sighisoara, Mures County, Romania	1582175	56170
+Florence, Italy	Budapest, Hungary	945764	32355
+Vienna, Austria	Florence, Italy	851658	29850
+Florence, Italy	Prague, Czech Republic	1032635	36609
+Florence, Italy	Krakow, Poland	1311289	46220
+Florence, Italy	Jägala Waterfall, 74205 Harjumaa, Estonia	2544412	100268
+Florence, Italy	Lapland, Finland	3608923	139541
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Florence, Italy	3498378	133507
+Bergen, Norway	Florence, Italy	2610150	107444
+Florence, Italy	Copenhagen, Denmark	1630418	63899
+Berlin, Germany	Florence, Italy	1232630	44203
+Florence, Italy	Amsterdam, Netherlands	1380082	49164
+Florence, Italy	Keukenhof, Stationsweg, Lisse, Netherlands	1404794	49723
+Edinburgh, United Kingdom	Florence, Italy	2230434	79825
+Inverness, United Kingdom	Florence, Italy	2526679	89094
+Ballybunion, Ireland	Florence, Italy	2496850	95179
+Florence, Italy	Cliffs of Moher, Clare, Ireland	2494859	95014
+Florence, Italy	Cornwall, England	2005563	71149
+Stonehenge, Amesbury, United Kingdom	Florence, Italy	1726793	60092
+London, United Kingdom	Florence, Italy	1603107	57124
+Brussels, Belgium	Florence, Italy	1213227	43456
+Florence, Italy	Paris, France	1151121	39921
+Florence, Italy	Pamplona, Spain	1378471	49244
+Lagos, Portugal	Florence, Italy	2349336	79695
+Granada, Spain	Florence, Italy	1964322	66838
+Florence, Italy	Ibiza, Spain	1656206	62659
+Barcelona, Spain	Florence, Italy	1089098	39625
+Florence, Italy	Luberone, Bonnieux, France	652112	25795
+Florence, Italy	Nice, France	423997	17262
+Florence, Italy	Monte Carlo, Monaco	410027	16880
+Interlaken, Switzerland	Florence, Italy	563893	23006
+Rome, Italy	Vatican City	6984	1133
+Rome, Italy	Amalfi, Italy	275289	12486
+Rome, Italy	Gozo, Malta	1082772	55043
+Rome, Italy	Dubrovnik, Croatia	641616	50776
+Santorini, Thira, Greece	Rome, Italy	1600544	108592
+Rome, Italy	Rila Monastery, Rilski manastir, Bulgaria	1772232	63717
+Rome, Italy	Istanbul, Turkey	2229026	78795
+Rome, Italy	Sighisoara, Mures County, Romania	1852523	65147
+Rome, Italy	Budapest, Hungary	1216112	41331
+Vienna, Austria	Rome, Italy	1122007	38827
+Rome, Italy	Prague, Czech Republic	1302983	45586
+Rome, Italy	Krakow, Poland	1581637	55197
+Rome, Italy	Jägala Waterfall, 74205 Harjumaa, Estonia	2814761	109244
+Rome, Italy	Lapland, Finland	3879271	148517
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Rome, Italy	3768727	142484
+Bergen, Norway	Rome, Italy	2880498	116421
+Rome, Italy	Copenhagen, Denmark	1900766	72875
+Berlin, Germany	Rome, Italy	1502978	53179
+Rome, Italy	Amsterdam, Netherlands	1650430	58140
+Rome, Italy	Keukenhof, Stationsweg, Lisse, Netherlands	1675143	58699
+Edinburgh, United Kingdom	Rome, Italy	2500783	88802
+Inverness, United Kingdom	Rome, Italy	2797028	98070
+Ballybunion, Ireland	Rome, Italy	2767198	104156
+Rome, Italy	Cliffs of Moher, Clare, Ireland	2765208	103991
+Rome, Italy	Cornwall, England	2275911	80125
+Rome, Italy	Stonehenge, Amesbury, United Kingdom	1997141	69068
+London, United Kingdom	Rome, Italy	1873456	66101
+Brussels, Belgium	Rome, Italy	1483575	52432
+Rome, Italy	Paris, France	1421470	48898
+Rome, Italy	Pamplona, Spain	1648819	58220
+Lagos, Portugal	Rome, Italy	2619684	88672
+Granada, Spain	Rome, Italy	2234670	75814
+Rome, Italy	Ibiza, Spain	1926555	71636
+Barcelona, Spain	Rome, Italy	1359447	48602
+Rome, Italy	Luberone, Bonnieux, France	922460	34772
+Rome, Italy	Nice, France	694345	26238
+Rome, Italy	Monte Carlo, Monaco	680376	25856
+Interlaken, Switzerland	Rome, Italy	834242	31983
+Vatican City	Amalfi, Italy	280503	13235
+Gozo, Malta	Vatican City	1087986	55791
+Vatican City	Dubrovnik, Croatia	646830	51524
+Santorini, Thira, Greece	Vatican City	1605758	109341
+Vatican City	Rila Monastery, Rilski manastir, Bulgaria	1789117	64198
+Vatican City	Istanbul, Turkey	2245910	79276
+Vatican City	Sighisoara, Mures County, Romania	1869407	65628
+Vatican City	Budapest, Hungary	1232996	41812
+Vienna, Austria	Vatican City	1138891	39308
+Vatican City	Prague, Czech Republic	1319867	46067
+Vatican City	Krakow, Poland	1598522	55678
+Jägala Waterfall, 74205 Harjumaa, Estonia	Vatican City	2831645	109725
+Lapland, Finland	Vatican City	3896155	148998
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Vatican City	3785611	142965
+Bergen, Norway	Vatican City	2897382	116902
+Vatican City	Copenhagen, Denmark	1917651	73357
+Berlin, Germany	Vatican City	1519862	53660
+Vatican City	Amsterdam, Netherlands	1667314	58621
+Vatican City	Keukenhof, Stationsweg, Lisse, Netherlands	1692027	59180
+Edinburgh, United Kingdom	Vatican City	2517667	89283
+Inverness, United Kingdom	Vatican City	2813912	98551
+Ballybunion, Ireland	Vatican City	2784083	104637
+Vatican City	Cliffs of Moher, Clare, Ireland	2782092	104472
+Cornwall, England	Vatican City	2292795	80606
+Stonehenge, Amesbury, United Kingdom	Vatican City	2014025	69549
+London, United Kingdom	Vatican City	1890340	66582
+Brussels, Belgium	Vatican City	1500459	52913
+Vatican City	Paris, France	1438354	49379
+Pamplona, Spain	Vatican City	1629176	58378
+Lagos, Portugal	Vatican City	2600042	88829
+Granada, Spain	Vatican City	2215028	75972
+Ibiza, Spain	Vatican City	1906912	71793
+Barcelona, Spain	Vatican City	1339804	48759
+Vatican City	Luberone, Bonnieux, France	902818	34929
+Vatican City	Nice, France	674702	26396
+Vatican City	Monte Carlo, Monaco	660733	26014
+Interlaken, Switzerland	Vatican City	851126	32464
+Gozo, Malta	Amalfi, Italy	845590	49167
+Amalfi, Italy	Dubrovnik, Croatia	475969	46810
+Santorini, Thira, Greece	Amalfi, Italy	1434897	104627
+Amalfi, Italy	Rila Monastery, Rilski manastir, Bulgaria	1191291	73160
+Amalfi, Italy	Istanbul, Turkey	1555265	85274
+Amalfi, Italy	Sighisoara, Mures County, Romania	2103382	74821
+Budapest, Hungary	Amalfi, Italy	1466972	51005
+Vienna, Austria	Amalfi, Italy	1372866	48501
+Prague, Czech Republic	Amalfi, Italy	1553842	55259
+Krakow, Poland	Amalfi, Italy	1832497	64871
+Jägala Waterfall, 74205 Harjumaa, Estonia	Amalfi, Italy	3065620	118918
+Lapland, Finland	Amalfi, Italy	4130130	158191
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Amalfi, Italy	4019586	152158
+Bergen, Norway	Amalfi, Italy	3131357	126095
+Copenhagen, Denmark	Amalfi, Italy	2151626	82549
+Berlin, Germany	Amalfi, Italy	1753837	62853
+Amsterdam, Netherlands	Amalfi, Italy	1901289	67814
+Amalfi, Italy	Keukenhof, Stationsweg, Lisse, Netherlands	1926002	68373
+Edinburgh, United Kingdom	Amalfi, Italy	2751642	98475
+Inverness, United Kingdom	Amalfi, Italy	3047887	107744
+Ballybunion, Ireland	Amalfi, Italy	3018058	113830
+Cliffs of Moher, Clare, Ireland	Amalfi, Italy	3016067	113665
+Cornwall, England	Amalfi, Italy	2526771	89799
+Stonehenge, Amesbury, United Kingdom	Amalfi, Italy	2248000	78742
+London, United Kingdom	Amalfi, Italy	2124315	75775
+Brussels, Belgium	Amalfi, Italy	1734434	62106
+Amalfi, Italy	Paris, France	1672329	58572
+Pamplona, Spain	Amalfi, Italy	1899678	67894
+Lagos, Portugal	Amalfi, Italy	2870544	98345
+Granada, Spain	Amalfi, Italy	2485530	85488
+Ibiza, Spain	Amalfi, Italy	2177414	81310
+Barcelona, Spain	Amalfi, Italy	1610306	58275
+Luberone, Bonnieux, France	Amalfi, Italy	1173320	44445
+Nice, France	Amalfi, Italy	945204	35912
+Monte Carlo, Monaco	Amalfi, Italy	931235	35530
+Interlaken, Switzerland	Amalfi, Italy	1085101	41656
+Gozo, Malta	Dubrovnik, Croatia	1040917	81676
+Santorini, Thira, Greece	Gozo, Malta	1887224	135707
+Gozo, Malta	Rila Monastery, Rilski manastir, Bulgaria	1643619	104240
+Gozo, Malta	Istanbul, Turkey	2007592	116354
+Gozo, Malta	Sighisoara, Mures County, Romania	2907396	117296
+Gozo, Malta	Budapest, Hungary	2270985	93480
+Vienna, Austria	Gozo, Malta	2176880	90976
+Gozo, Malta	Prague, Czech Republic	2357856	97735
+Gozo, Malta	Krakow, Poland	2636510	107346
+Jägala Waterfall, 74205 Harjumaa, Estonia	Gozo, Malta	3869633	161393
+Lapland, Finland	Gozo, Malta	4934144	200666
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Gozo, Malta	4823600	194633
+Bergen, Norway	Gozo, Malta	3935371	168570
+Gozo, Malta	Copenhagen, Denmark	2955639	125025
+Berlin, Germany	Gozo, Malta	2557851	105328
+Gozo, Malta	Amsterdam, Netherlands	2705303	110289
+Gozo, Malta	Keukenhof, Stationsweg, Lisse, Netherlands	2730016	110848
+Edinburgh, United Kingdom	Gozo, Malta	3555656	140951
+Inverness, United Kingdom	Gozo, Malta	3851901	150219
+Ballybunion, Ireland	Gozo, Malta	3822071	156305
+Gozo, Malta	Cliffs of Moher, Clare, Ireland	3820080	156140
+Cornwall, England	Gozo, Malta	3330784	132274
+Stonehenge, Amesbury, United Kingdom	Gozo, Malta	3052014	121217
+London, United Kingdom	Gozo, Malta	2928329	118250
+Brussels, Belgium	Gozo, Malta	2538448	104581
+Gozo, Malta	Paris, France	2476343	101047
+Pamplona, Spain	Gozo, Malta	2703692	110369
+Lagos, Portugal	Gozo, Malta	3674557	140821
+Granada, Spain	Gozo, Malta	3289543	127963
+Ibiza, Spain	Gozo, Malta	2981428	123785
+Barcelona, Spain	Gozo, Malta	2414320	100751
+Gozo, Malta	Luberone, Bonnieux, France	1977333	86921
+Gozo, Malta	Nice, France	1749218	78387
+Gozo, Malta	Monte Carlo, Monaco	1735249	78006
+Interlaken, Switzerland	Gozo, Malta	1889115	84132
+Santorini, Thira, Greece	Dubrovnik, Croatia	1290105	86467
+Dubrovnik, Croatia	Rila Monastery, Rilski manastir, Bulgaria	805030	44921
+Dubrovnik, Croatia	Istanbul, Turkey	1261824	59999
+Dubrovnik, Croatia	Sighisoara, Mures County, Romania	980899	54859
+Budapest, Hungary	Dubrovnik, Croatia	940333	32593
+Vienna, Austria	Dubrovnik, Croatia	954357	34678
+Prague, Czech Republic	Dubrovnik, Croatia	1275090	46947
+Krakow, Poland	Dubrovnik, Croatia	1413987	51048
+Jägala Waterfall, 74205 Harjumaa, Estonia	Dubrovnik, Croatia	2647110	105095
+Lapland, Finland	Dubrovnik, Croatia	4035020	155828
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Dubrovnik, Croatia	3924476	149795
+Bergen, Norway	Dubrovnik, Croatia	3036247	123732
+Copenhagen, Denmark	Dubrovnik, Croatia	2056515	80187
+Berlin, Germany	Dubrovnik, Croatia	1623664	60160
+Amsterdam, Netherlands	Dubrovnik, Croatia	1911920	68605
+Dubrovnik, Croatia	Keukenhof, Stationsweg, Lisse, Netherlands	1938089	69364
+Edinburgh, United Kingdom	Dubrovnik, Croatia	2840351	104175
+Inverness, United Kingdom	Dubrovnik, Croatia	3136596	113444
+Ballybunion, Ireland	Dubrovnik, Croatia	3106767	119530
+Cliffs of Moher, Clare, Ireland	Dubrovnik, Croatia	3104776	119365
+Cornwall, England	Dubrovnik, Croatia	2615480	95499
+Stonehenge, Amesbury, United Kingdom	Dubrovnik, Croatia	2336709	84442
+London, United Kingdom	Dubrovnik, Croatia	2213024	81475
+Brussels, Belgium	Dubrovnik, Croatia	1867836	66959
+Paris, France	Dubrovnik, Croatia	1907092	68384
+Pamplona, Spain	Dubrovnik, Croatia	2346053	83378
+Lagos, Portugal	Dubrovnik, Croatia	3316919	113830
+Granada, Spain	Dubrovnik, Croatia	2931905	100972
+Ibiza, Spain	Dubrovnik, Croatia	2623789	96794
+Barcelona, Spain	Dubrovnik, Croatia	2056681	73760
+Luberone, Bonnieux, France	Dubrovnik, Croatia	1619695	59930
+Nice, France	Dubrovnik, Croatia	1391579	51396
+Monte Carlo, Monaco	Dubrovnik, Croatia	1377610	51014
+Interlaken, Switzerland	Dubrovnik, Croatia	1341210	51653
+Santorini, Thira, Greece	Rila Monastery, Rilski manastir, Bulgaria	1045813	62966
+Santorini, Thira, Greece	Istanbul, Turkey	1409786	75081
+Santorini, Thira, Greece	Sighisoara, Mures County, Romania	1683856	95787
+Santorini, Thira, Greece	Budapest, Hungary	1791294	88419
+Vienna, Austria	Santorini, Thira, Greece	2026054	96009
+Santorini, Thira, Greece	Prague, Czech Republic	2307950	105224
+Santorini, Thira, Greece	Krakow, Poland	2185704	108643
+Santorini, Thira, Greece	Jägala Waterfall, 74205 Harjumaa, Estonia	3667478	163257
+Santorini, Thira, Greece	Lapland, Finland	5068868	216025
+Santorini, Thira, Greece	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	4958324	209992
+Santorini, Thira, Greece	Bergen, Norway	4100428	184473
+Santorini, Thira, Greece	Copenhagen, Denmark	3090363	140383
+Santorini, Thira, Greece	Berlin, Germany	2656525	118436
+Santorini, Thira, Greece	Amsterdam, Netherlands	3179708	135346
+Santorini, Thira, Greece	Keukenhof, Stationsweg, Lisse, Netherlands	3205877	136105
+Santorini, Thira, Greece	Edinburgh, United Kingdom	4136178	172157
+Inverness, United Kingdom	Santorini, Thira, Greece	4432423	181425
+Santorini, Thira, Greece	Ballybunion, Ireland	4402594	187511
+Santorini, Thira, Greece	Cliffs of Moher, Clare, Ireland	4400603	187346
+Santorini, Thira, Greece	Cornwall, England	3911306	163480
+Santorini, Thira, Greece	Stonehenge, Amesbury, United Kingdom	3632536	152424
+London, United Kingdom	Santorini, Thira, Greece	3508851	149456
+Brussels, Belgium	Santorini, Thira, Greece	3135625	133701
+Santorini, Thira, Greece	Paris, France	3193697	135164
+Santorini, Thira, Greece	Pamplona, Spain	3264124	163199
+Santorini, Thira, Greece	Lagos, Portugal	4234990	193651
+Santorini, Thira, Greece	Granada, Spain	3849976	180793
+Santorini, Thira, Greece	Ibiza, Spain	3541860	176615
+Barcelona, Spain	Santorini, Thira, Greece	2974752	153581
+Santorini, Thira, Greece	Luberone, Bonnieux, France	2537766	139751
+Santorini, Thira, Greece	Nice, France	2309650	131217
+Santorini, Thira, Greece	Monte Carlo, Monaco	2295681	130835
+Interlaken, Switzerland	Santorini, Thira, Greece	2688860	120536
+Istanbul, Turkey	Rila Monastery, Rilski manastir, Bulgaria	678365	25468
+Sighisoara, Mures County, Romania	Rila Monastery, Rilski manastir, Bulgaria	694204	37319
+Budapest, Hungary	Rila Monastery, Rilski manastir, Bulgaria	871160	33883
+Vienna, Austria	Rila Monastery, Rilski manastir, Bulgaria	1105919	41473
+Prague, Czech Republic	Rila Monastery, Rilski manastir, Bulgaria	1387816	50688
+Krakow, Poland	Rila Monastery, Rilski manastir, Bulgaria	1265569	54107
+Jägala Waterfall, 74205 Harjumaa, Estonia	Rila Monastery, Rilski manastir, Bulgaria	2747343	108721
+Lapland, Finland	Rila Monastery, Rilski manastir, Bulgaria	4148733	161490
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Rila Monastery, Rilski manastir, Bulgaria	4038189	155456
+Bergen, Norway	Rila Monastery, Rilski manastir, Bulgaria	3180293	129937
+Copenhagen, Denmark	Rila Monastery, Rilski manastir, Bulgaria	2170229	85848
+Berlin, Germany	Rila Monastery, Rilski manastir, Bulgaria	1736390	63901
+Amsterdam, Netherlands	Rila Monastery, Rilski manastir, Bulgaria	2259574	80810
+Keukenhof, Stationsweg, Lisse, Netherlands	Rila Monastery, Rilski manastir, Bulgaria	2285743	81570
+Edinburgh, United Kingdom	Rila Monastery, Rilski manastir, Bulgaria	3216043	117621
+Inverness, United Kingdom	Rila Monastery, Rilski manastir, Bulgaria	3512289	126890
+Ballybunion, Ireland	Rila Monastery, Rilski manastir, Bulgaria	3482459	132975
+Cliffs of Moher, Clare, Ireland	Rila Monastery, Rilski manastir, Bulgaria	3480468	132811
+Cornwall, England	Rila Monastery, Rilski manastir, Bulgaria	2991172	108945
+Stonehenge, Amesbury, United Kingdom	Rila Monastery, Rilski manastir, Bulgaria	2712402	97888
+London, United Kingdom	Rila Monastery, Rilski manastir, Bulgaria	2588716	94921
+Brussels, Belgium	Rila Monastery, Rilski manastir, Bulgaria	2215490	79165
+Paris, France	Rila Monastery, Rilski manastir, Bulgaria	2273563	80628
+Pamplona, Spain	Rila Monastery, Rilski manastir, Bulgaria	2773569	97725
+Lagos, Portugal	Rila Monastery, Rilski manastir, Bulgaria	3744435	128176
+Granada, Spain	Rila Monastery, Rilski manastir, Bulgaria	3359421	115319
+Ibiza, Spain	Rila Monastery, Rilski manastir, Bulgaria	3051305	111140
+Barcelona, Spain	Rila Monastery, Rilski manastir, Bulgaria	2484197	88106
+Luberone, Bonnieux, France	Rila Monastery, Rilski manastir, Bulgaria	2047211	74276
+Nice, France	Rila Monastery, Rilski manastir, Bulgaria	1819095	65743
+Monte Carlo, Monaco	Rila Monastery, Rilski manastir, Bulgaria	1805126	65361
+Interlaken, Switzerland	Rila Monastery, Rilski manastir, Bulgaria	1768726	66000
+Sighisoara, Mures County, Romania	Istanbul, Turkey	965774	44550
+Budapest, Hungary	Istanbul, Turkey	1328080	48887
+Vienna, Austria	Istanbul, Turkey	1562840	56477
+Prague, Czech Republic	Istanbul, Turkey	1844736	65692
+Krakow, Poland	Istanbul, Turkey	1722490	69111
+Jägala Waterfall, 74205 Harjumaa, Estonia	Istanbul, Turkey	3204264	123725
+Lapland, Finland	Istanbul, Turkey	4605654	176493
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Istanbul, Turkey	4495110	170460
+Bergen, Norway	Istanbul, Turkey	3637213	144941
+Copenhagen, Denmark	Istanbul, Turkey	2627149	100852
+Berlin, Germany	Istanbul, Turkey	2193311	78904
+Amsterdam, Netherlands	Istanbul, Turkey	2716494	95814
+Keukenhof, Stationsweg, Lisse, Netherlands	Istanbul, Turkey	2742663	96573
+Edinburgh, United Kingdom	Istanbul, Turkey	3672964	132625
+Inverness, United Kingdom	Istanbul, Turkey	3969209	141893
+Ballybunion, Ireland	Istanbul, Turkey	3939380	147979
+Cliffs of Moher, Clare, Ireland	Istanbul, Turkey	3937389	147814
+Cornwall, England	Istanbul, Turkey	3448092	123948
+Stonehenge, Amesbury, United Kingdom	Istanbul, Turkey	3169322	112892
+London, United Kingdom	Istanbul, Turkey	3045637	109924
+Brussels, Belgium	Istanbul, Turkey	2672411	94169
+Paris, France	Istanbul, Turkey	2730483	95632
+Pamplona, Spain	Istanbul, Turkey	3230490	112728
+Lagos, Portugal	Istanbul, Turkey	4201355	143180
+Granada, Spain	Istanbul, Turkey	3816341	130323
+Ibiza, Spain	Istanbul, Turkey	3508225	126144
+Barcelona, Spain	Istanbul, Turkey	2941117	103110
+Luberone, Bonnieux, France	Istanbul, Turkey	2504131	89280
+Nice, France	Istanbul, Turkey	2276016	80746
+Monte Carlo, Monaco	Istanbul, Turkey	2262046	80365
+Interlaken, Switzerland	Istanbul, Turkey	2225646	81004
+Budapest, Hungary	Sighisoara, Mures County, Romania	647805	25180
+Vienna, Austria	Sighisoara, Mures County, Romania	882564	32770
+Prague, Czech Republic	Sighisoara, Mures County, Romania	1164461	41985
+Krakow, Poland	Sighisoara, Mures County, Romania	826765	40459
+Jägala Waterfall, 74205 Harjumaa, Estonia	Sighisoara, Mures County, Romania	1959677	97952
+Lapland, Finland	Sighisoara, Mures County, Romania	3022087	151160
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Sighisoara, Mures County, Romania	3814835	146753
+Bergen, Norway	Sighisoara, Mures County, Romania	2956938	121234
+Copenhagen, Denmark	Sighisoara, Mures County, Romania	1946874	77145
+Berlin, Germany	Sighisoara, Mures County, Romania	1513036	55198
+Amsterdam, Netherlands	Sighisoara, Mures County, Romania	2036219	72107
+Keukenhof, Stationsweg, Lisse, Netherlands	Sighisoara, Mures County, Romania	2062388	72866
+Edinburgh, United Kingdom	Sighisoara, Mures County, Romania	2992689	108918
+Inverness, United Kingdom	Sighisoara, Mures County, Romania	3288934	118186
+Ballybunion, Ireland	Sighisoara, Mures County, Romania	3259105	124272
+Cliffs of Moher, Clare, Ireland	Sighisoara, Mures County, Romania	3257114	124107
+Cornwall, England	Sighisoara, Mures County, Romania	2767817	100241
+Stonehenge, Amesbury, United Kingdom	Sighisoara, Mures County, Romania	2489047	89185
+London, United Kingdom	Sighisoara, Mures County, Romania	2365362	86217
+Brussels, Belgium	Sighisoara, Mures County, Romania	1992136	70462
+Paris, France	Sighisoara, Mures County, Romania	2124695	74348
+Pamplona, Spain	Sighisoara, Mures County, Romania	2853171	99069
+Lagos, Portugal	Sighisoara, Mures County, Romania	3824037	129520
+Granada, Spain	Sighisoara, Mures County, Romania	3439023	116663
+Ibiza, Spain	Sighisoara, Mures County, Romania	3130907	112484
+Barcelona, Spain	Sighisoara, Mures County, Romania	2563799	89450
+Luberone, Bonnieux, France	Sighisoara, Mures County, Romania	2126813	75620
+Nice, France	Sighisoara, Mures County, Romania	1898697	67087
+Monte Carlo, Monaco	Sighisoara, Mures County, Romania	1884728	66705
+Interlaken, Switzerland	Sighisoara, Mures County, Romania	1753473	63930
+Vienna, Austria	Budapest, Hungary	242975	8934
+Budapest, Hungary	Prague, Czech Republic	524872	18149
+Budapest, Hungary	Krakow, Poland	397991	21797
+Jägala Waterfall, 74205 Harjumaa, Estonia	Budapest, Hungary	1884399	76182
+Lapland, Finland	Budapest, Hungary	3285789	128950
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Budapest, Hungary	3175245	122917
+Bergen, Norway	Budapest, Hungary	2317349	97397
+Budapest, Hungary	Copenhagen, Denmark	1307285	53308
+Berlin, Germany	Budapest, Hungary	873446	31361
+Budapest, Hungary	Amsterdam, Netherlands	1396630	48271
+Budapest, Hungary	Keukenhof, Stationsweg, Lisse, Netherlands	1422799	49030
+Edinburgh, United Kingdom	Budapest, Hungary	2353099	85081
+Inverness, United Kingdom	Budapest, Hungary	2649344	94350
+Ballybunion, Ireland	Budapest, Hungary	2619515	100436
+Budapest, Hungary	Cliffs of Moher, Clare, Ireland	2617524	100271
+Cornwall, England	Budapest, Hungary	2128228	76405
+Stonehenge, Amesbury, United Kingdom	Budapest, Hungary	1849458	65348
+London, United Kingdom	Budapest, Hungary	1725772	62381
+Brussels, Belgium	Budapest, Hungary	1352546	46625
+Budapest, Hungary	Paris, France	1485106	50511
+Pamplona, Spain	Budapest, Hungary	2216743	75350
+Lagos, Portugal	Budapest, Hungary	3187609	105801
+Granada, Spain	Budapest, Hungary	2802595	92944
+Ibiza, Spain	Budapest, Hungary	2494479	88766
+Barcelona, Spain	Budapest, Hungary	1927371	65731
+Budapest, Hungary	Luberone, Bonnieux, France	1490385	51901
+Budapest, Hungary	Nice, France	1262269	43368
+Budapest, Hungary	Monte Carlo, Monaco	1248300	42986
+Interlaken, Switzerland	Budapest, Hungary	1113884	40094
+Vienna, Austria	Prague, Czech Republic	291222	13230
+Vienna, Austria	Krakow, Poland	470325	17801
+Vienna, Austria	Jägala Waterfall, 74205 Harjumaa, Estonia	1703449	71849
+Vienna, Austria	Lapland, Finland	3052140	124031
+Vienna, Austria	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	2941596	117998
+Vienna, Austria	Bergen, Norway	2083699	92478
+Vienna, Austria	Copenhagen, Denmark	1073635	48389
+Vienna, Austria	Berlin, Germany	639797	26442
+Vienna, Austria	Amsterdam, Netherlands	1147881	40721
+Vienna, Austria	Keukenhof, Stationsweg, Lisse, Netherlands	1174050	41480
+Vienna, Austria	Edinburgh, United Kingdom	2104350	77532
+Vienna, Austria	Inverness, United Kingdom	2400596	86800
+Vienna, Austria	Ballybunion, Ireland	2370766	92886
+Vienna, Austria	Cliffs of Moher, Clare, Ireland	2368775	92721
+Vienna, Austria	Cornwall, England	1879479	68856
+Vienna, Austria	Stonehenge, Amesbury, United Kingdom	1600709	57799
+Vienna, Austria	London, United Kingdom	1477023	54831
+Vienna, Austria	Brussels, Belgium	1103797	39076
+Vienna, Austria	Paris, France	1236357	42962
+Vienna, Austria	Pamplona, Spain	2046458	71324
+Vienna, Austria	Lagos, Portugal	3092434	103302
+Vienna, Austria	Granada, Spain	2707420	90444
+Vienna, Austria	Ibiza, Spain	2399304	86266
+Vienna, Austria	Barcelona, Spain	1832196	63232
+Vienna, Austria	Luberone, Bonnieux, France	1395210	49402
+Vienna, Austria	Nice, France	1167094	40868
+Vienna, Austria	Monte Carlo, Monaco	1153125	40487
+Vienna, Austria	Interlaken, Switzerland	865135	32544
+Prague, Czech Republic	Krakow, Poland	534977	18947
+Jägala Waterfall, 74205 Harjumaa, Estonia	Prague, Czech Republic	1673178	69373
+Lapland, Finland	Prague, Czech Republic	2761801	111122
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Prague, Czech Republic	2651257	105089
+Bergen, Norway	Prague, Czech Republic	1793360	79569
+Prague, Czech Republic	Copenhagen, Denmark	783296	35480
+Berlin, Germany	Prague, Czech Republic	349458	13533
+Prague, Czech Republic	Amsterdam, Netherlands	875806	30999
+Prague, Czech Republic	Keukenhof, Stationsweg, Lisse, Netherlands	905123	31771
+Edinburgh, United Kingdom	Prague, Czech Republic	1898675	69704
+Inverness, United Kingdom	Prague, Czech Republic	2194920	78973
+Ballybunion, Ireland	Prague, Czech Republic	2165091	85058
+Prague, Czech Republic	Cliffs of Moher, Clare, Ireland	2163100	84894
+Cornwall, England	Prague, Czech Republic	1673804	61028
+Stonehenge, Amesbury, United Kingdom	Prague, Czech Republic	1395033	49971
+London, United Kingdom	Prague, Czech Republic	1271348	47004
+Brussels, Belgium	Prague, Czech Republic	898122	31248
+Prague, Czech Republic	Paris, France	1030326	35090
+Pamplona, Spain	Prague, Czech Republic	1840961	63869
+Lagos, Portugal	Prague, Czech Republic	2931044	97353
+Granada, Spain	Prague, Czech Republic	2589477	85006
+Ibiza, Spain	Prague, Czech Republic	2281362	80828
+Barcelona, Spain	Prague, Czech Republic	1714254	57794
+Prague, Czech Republic	Luberone, Bonnieux, France	1339812	45906
+Prague, Czech Republic	Nice, France	1179882	43354
+Prague, Czech Republic	Monte Carlo, Monaco	1165913	42972
+Interlaken, Switzerland	Prague, Czech Republic	808988	29757
+Jägala Waterfall, 74205 Harjumaa, Estonia	Krakow, Poland	1372121	60235
+Lapland, Finland	Krakow, Poland	2434530	113443
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Krakow, Poland	2900676	112924
+Bergen, Norway	Krakow, Poland	2042780	87405
+Copenhagen, Denmark	Krakow, Poland	1032715	43315
+Berlin, Germany	Krakow, Poland	598877	21368
+Amsterdam, Netherlands	Krakow, Poland	1218081	42077
+Krakow, Poland	Keukenhof, Stationsweg, Lisse, Netherlands	1247397	42848
+Edinburgh, United Kingdom	Krakow, Poland	2303849	82555
+Inverness, United Kingdom	Krakow, Poland	2600094	91824
+Ballybunion, Ireland	Krakow, Poland	2570265	97910
+Cliffs of Moher, Clare, Ireland	Krakow, Poland	2568274	97745
+Cornwall, England	Krakow, Poland	2078978	73879
+Stonehenge, Amesbury, United Kingdom	Krakow, Poland	1800208	62822
+London, United Kingdom	Krakow, Poland	1676522	59855
+Brussels, Belgium	Krakow, Poland	1303296	44099
+Krakow, Poland	Paris, France	1539622	50921
+Pamplona, Spain	Krakow, Poland	2423368	79510
+Lagos, Portugal	Krakow, Poland	3513451	112994
+Granada, Spain	Krakow, Poland	3128718	102508
+Ibiza, Spain	Krakow, Poland	2820602	98330
+Barcelona, Spain	Krakow, Poland	2253494	75295
+Luberone, Bonnieux, France	Krakow, Poland	1879052	63408
+Nice, France	Krakow, Poland	1628363	57251
+Monte Carlo, Monaco	Krakow, Poland	1614394	56869
+Interlaken, Switzerland	Krakow, Poland	1363293	47494
+Lapland, Finland	Jägala Waterfall, 74205 Harjumaa, Estonia	1119389	56119
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Jägala Waterfall, 74205 Harjumaa, Estonia	1201167	57919
+Bergen, Norway	Jägala Waterfall, 74205 Harjumaa, Estonia	1417751	100538
+Jägala Waterfall, 74205 Harjumaa, Estonia	Copenhagen, Denmark	1106947	78668
+Berlin, Germany	Jägala Waterfall, 74205 Harjumaa, Estonia	1559521	65667
+Jägala Waterfall, 74205 Harjumaa, Estonia	Amsterdam, Netherlands	2178349	86344
+Jägala Waterfall, 74205 Harjumaa, Estonia	Keukenhof, Stationsweg, Lisse, Netherlands	2207666	87116
+Edinburgh, United Kingdom	Jägala Waterfall, 74205 Harjumaa, Estonia	3254384	127294
+Inverness, United Kingdom	Jägala Waterfall, 74205 Harjumaa, Estonia	3550629	136563
+Ballybunion, Ireland	Jägala Waterfall, 74205 Harjumaa, Estonia	3520800	142649
+Jägala Waterfall, 74205 Harjumaa, Estonia	Cliffs of Moher, Clare, Ireland	3518809	142484
+Cornwall, England	Jägala Waterfall, 74205 Harjumaa, Estonia	3029513	118618
+Stonehenge, Amesbury, United Kingdom	Jägala Waterfall, 74205 Harjumaa, Estonia	2750743	107561
+London, United Kingdom	Jägala Waterfall, 74205 Harjumaa, Estonia	2627057	104594
+Brussels, Belgium	Jägala Waterfall, 74205 Harjumaa, Estonia	2278991	89675
+Jägala Waterfall, 74205 Harjumaa, Estonia	Paris, France	2578539	99311
+Pamplona, Spain	Jägala Waterfall, 74205 Harjumaa, Estonia	3508158	127709
+Lagos, Portugal	Jägala Waterfall, 74205 Harjumaa, Estonia	4598241	161193
+Granada, Spain	Jägala Waterfall, 74205 Harjumaa, Estonia	4213508	150707
+Ibiza, Spain	Jägala Waterfall, 74205 Harjumaa, Estonia	3905392	146529
+Barcelona, Spain	Jägala Waterfall, 74205 Harjumaa, Estonia	3338284	123495
+Jägala Waterfall, 74205 Harjumaa, Estonia	Luberone, Bonnieux, France	2963842	111607
+Jägala Waterfall, 74205 Harjumaa, Estonia	Nice, France	2818977	109290
+Jägala Waterfall, 74205 Harjumaa, Estonia	Monte Carlo, Monaco	2805008	108908
+Interlaken, Switzerland	Jägala Waterfall, 74205 Harjumaa, Estonia	2448083	95693
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Lapland, Finland	428527	19370
+Bergen, Norway	Lapland, Finland	1932947	88419
+Lapland, Finland	Copenhagen, Denmark	1991522	77170
+Berlin, Germany	Lapland, Finland	2418466	99041
+Lapland, Finland	Amsterdam, Netherlands	2770565	107608
+Lapland, Finland	Keukenhof, Stationsweg, Lisse, Netherlands	2799882	108380
+Edinburgh, United Kingdom	Lapland, Finland	3876154	149845
+Inverness, United Kingdom	Lapland, Finland	4172399	159113
+Ballybunion, Ireland	Lapland, Finland	4142570	165199
+Lapland, Finland	Cliffs of Moher, Clare, Ireland	4140579	165034
+Lapland, Finland	Cornwall, England	3651283	141168
+Stonehenge, Amesbury, United Kingdom	Lapland, Finland	3372513	130111
+London, United Kingdom	Lapland, Finland	3248827	127144
+Brussels, Belgium	Lapland, Finland	2903405	112450
+Lapland, Finland	Paris, France	3206588	122540
+Lapland, Finland	Pamplona, Spain	4071522	151521
+Lagos, Portugal	Lapland, Finland	5161606	185005
+Granada, Spain	Lapland, Finland	4881766	177187
+Lapland, Finland	Ibiza, Spain	4687198	175068
+Barcelona, Spain	Lapland, Finland	4120090	152034
+Lapland, Finland	Luberone, Bonnieux, France	3745648	140146
+Lapland, Finland	Nice, France	3724059	142037
+Lapland, Finland	Monte Carlo, Monaco	3710090	141656
+Interlaken, Switzerland	Lapland, Finland	3264925	124636
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Bergen, Norway	1740048	80413
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Copenhagen, Denmark	1880539	71136
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Berlin, Germany	2307484	93007
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Amsterdam, Netherlands	2659583	101574
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Keukenhof, Stationsweg, Lisse, Netherlands	2688900	102346
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Edinburgh, United Kingdom	3765172	143811
+Inverness, United Kingdom	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	4061417	153079
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Ballybunion, Ireland	4031588	159165
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Cliffs of Moher, Clare, Ireland	4029597	159000
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Cornwall, England	3540301	135134
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Stonehenge, Amesbury, United Kingdom	3261530	124077
+London, United Kingdom	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	3137845	121110
+Brussels, Belgium	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	2792423	106416
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Paris, France	3095606	116506
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Pamplona, Spain	3960540	145487
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Lagos, Portugal	5050623	178971
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Granada, Spain	4770784	171153
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Ibiza, Spain	4576216	169034
+Barcelona, Spain	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	4009108	146000
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Luberone, Bonnieux, France	3634666	134112
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Nice, France	3613077	136003
+ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	Monte Carlo, Monaco	3599108	135622
+Interlaken, Switzerland	ICEBAR, Marknadsvägen, Jukkasjärvi, Sweden	3153943	118602
+Bergen, Norway	Copenhagen, Denmark	1064739	47190
+Bergen, Norway	Berlin, Germany	1449746	67592
+Bergen, Norway	Amsterdam, Netherlands	1626983	73656
+Bergen, Norway	Keukenhof, Stationsweg, Lisse, Netherlands	1656300	74427
+Bergen, Norway	Edinburgh, United Kingdom	2732572	115892
+Inverness, United Kingdom	Bergen, Norway	3028817	125160
+Bergen, Norway	Ballybunion, Ireland	2998988	131246
+Bergen, Norway	Cliffs of Moher, Clare, Ireland	2996997	131081
+Bergen, Norway	Cornwall, England	2507701	107215
+Bergen, Norway	Stonehenge, Amesbury, United Kingdom	2228931	96159
+London, United Kingdom	Bergen, Norway	2105245	93191
+Brussels, Belgium	Bergen, Norway	1759823	78497
+Bergen, Norway	Paris, France	2063006	88587
+Bergen, Norway	Pamplona, Spain	2927940	117568
+Bergen, Norway	Lagos, Portugal	4018024	151052
+Bergen, Norway	Granada, Spain	3738184	143234
+Bergen, Norway	Ibiza, Spain	3554512	141467
+Barcelona, Spain	Bergen, Norway	2987404	118432
+Bergen, Norway	Luberone, Bonnieux, France	2612962	106545
+Bergen, Norway	Nice, France	2591373	108436
+Bergen, Norway	Monte Carlo, Monaco	2577404	108054
+Interlaken, Switzerland	Bergen, Norway	2132239	91034
+Berlin, Germany	Copenhagen, Denmark	438931	23309
+Copenhagen, Denmark	Amsterdam, Netherlands	791030	31876
+Copenhagen, Denmark	Keukenhof, Stationsweg, Lisse, Netherlands	820347	32648
+Edinburgh, United Kingdom	Copenhagen, Denmark	1896619	74113
+Inverness, United Kingdom	Copenhagen, Denmark	2192864	83381
+Ballybunion, Ireland	Copenhagen, Denmark	2163035	89467
+Copenhagen, Denmark	Cliffs of Moher, Clare, Ireland	2161044	89302
+Cornwall, England	Copenhagen, Denmark	1671747	65436
+Stonehenge, Amesbury, United Kingdom	Copenhagen, Denmark	1392977	54379
+London, United Kingdom	Copenhagen, Denmark	1269292	51412
+Brussels, Belgium	Copenhagen, Denmark	923870	36718
+Copenhagen, Denmark	Paris, France	1227053	46808
+Pamplona, Spain	Copenhagen, Denmark	2091987	75789
+Lagos, Portugal	Copenhagen, Denmark	3182070	109273
+Granada, Spain	Copenhagen, Denmark	2902231	101455
+Ibiza, Spain	Copenhagen, Denmark	2707663	99336
+Barcelona, Spain	Copenhagen, Denmark	2140555	76302
+Copenhagen, Denmark	Luberone, Bonnieux, France	1766113	64414
+Copenhagen, Denmark	Nice, France	1744524	66306
+Copenhagen, Denmark	Monte Carlo, Monaco	1730554	65924
+Interlaken, Switzerland	Copenhagen, Denmark	1285390	48904
+Berlin, Germany	Amsterdam, Netherlands	654708	24925
+Berlin, Germany	Keukenhof, Stationsweg, Lisse, Netherlands	684025	25697
+Berlin, Germany	Edinburgh, United Kingdom	1730743	65876
+Inverness, United Kingdom	Berlin, Germany	2026989	75144
+Berlin, Germany	Ballybunion, Ireland	1997159	81230
+Berlin, Germany	Cliffs of Moher, Clare, Ireland	1995168	81065
+Berlin, Germany	Cornwall, England	1505872	57199
+Berlin, Germany	Stonehenge, Amesbury, United Kingdom	1227102	46143
+London, United Kingdom	Berlin, Germany	1103416	43175
+Brussels, Belgium	Berlin, Germany	755350	28257
+Berlin, Germany	Paris, France	1054898	37893
+Berlin, Germany	Pamplona, Spain	1919833	66874
+Berlin, Germany	Lagos, Portugal	3009916	100358
+Berlin, Germany	Granada, Spain	2742907	91068
+Berlin, Germany	Ibiza, Spain	2434791	86890
+Barcelona, Spain	Berlin, Germany	1867683	63856
+Berlin, Germany	Luberone, Bonnieux, France	1493241	51968
+Berlin, Germany	Nice, France	1344539	49761
+Berlin, Germany	Monte Carlo, Monaco	1330570	49379
+Interlaken, Switzerland	Berlin, Germany	973645	36164
+Amsterdam, Netherlands	Keukenhof, Stationsweg, Lisse, Netherlands	42093	2704
+Edinburgh, United Kingdom	Amsterdam, Netherlands	1169323	45984
+Inverness, United Kingdom	Amsterdam, Netherlands	1465569	55253
+Ballybunion, Ireland	Amsterdam, Netherlands	1435739	61339
+Amsterdam, Netherlands	Cliffs of Moher, Clare, Ireland	1433748	61174
+Cornwall, England	Amsterdam, Netherlands	944452	37308
+Stonehenge, Amesbury, United Kingdom	Amsterdam, Netherlands	665682	26251
+London, United Kingdom	Amsterdam, Netherlands	541996	23284
+Brussels, Belgium	Amsterdam, Netherlands	205233	8981
+Amsterdam, Netherlands	Paris, France	522218	19234
+Pamplona, Spain	Amsterdam, Netherlands	1387153	48215
+Lagos, Portugal	Amsterdam, Netherlands	2477236	81699
+Granada, Spain	Amsterdam, Netherlands	2197396	73881
+Ibiza, Spain	Amsterdam, Netherlands	2117359	75473
+Barcelona, Spain	Amsterdam, Netherlands	1550251	52439
+Amsterdam, Netherlands	Luberone, Bonnieux, France	1202667	41332
+Amsterdam, Netherlands	Nice, France	1407221	47343
+Amsterdam, Netherlands	Monte Carlo, Monaco	1429295	48590
+Interlaken, Switzerland	Amsterdam, Netherlands	886780	31674
+Edinburgh, United Kingdom	Keukenhof, Stationsweg, Lisse, Netherlands	1168123	45418
+Inverness, United Kingdom	Keukenhof, Stationsweg, Lisse, Netherlands	1464368	54687
+Ballybunion, Ireland	Keukenhof, Stationsweg, Lisse, Netherlands	1434539	60773
+Cliffs of Moher, Clare, Ireland	Keukenhof, Stationsweg, Lisse, Netherlands	1432548	60608
+Cornwall, England	Keukenhof, Stationsweg, Lisse, Netherlands	943252	36742
+Stonehenge, Amesbury, United Kingdom	Keukenhof, Stationsweg, Lisse, Netherlands	664482	25685
+London, United Kingdom	Keukenhof, Stationsweg, Lisse, Netherlands	540796	22718
+Brussels, Belgium	Keukenhof, Stationsweg, Lisse, Netherlands	204033	8415
+Paris, France	Keukenhof, Stationsweg, Lisse, Netherlands	521018	18668
+Pamplona, Spain	Keukenhof, Stationsweg, Lisse, Netherlands	1385952	47649
+Lagos, Portugal	Keukenhof, Stationsweg, Lisse, Netherlands	2476036	81133
+Granada, Spain	Keukenhof, Stationsweg, Lisse, Netherlands	2196196	73315
+Ibiza, Spain	Keukenhof, Stationsweg, Lisse, Netherlands	2116159	74907
+Barcelona, Spain	Keukenhof, Stationsweg, Lisse, Netherlands	1549051	51873
+Luberone, Bonnieux, France	Keukenhof, Stationsweg, Lisse, Netherlands	1201466	40766
+Nice, France	Keukenhof, Stationsweg, Lisse, Netherlands	1406021	46777
+Monte Carlo, Monaco	Keukenhof, Stationsweg, Lisse, Netherlands	1428095	48024
+Interlaken, Switzerland	Keukenhof, Stationsweg, Lisse, Netherlands	914348	31972
+Inverness, United Kingdom	Edinburgh, United Kingdom	251539	11941
+Ballybunion, Ireland	Edinburgh, United Kingdom	746535	37216
+Edinburgh, United Kingdom	Cliffs of Moher, Clare, Ireland	744544	37051
+Edinburgh, United Kingdom	Cornwall, England	857784	32475
+Edinburgh, United Kingdom	Stonehenge, Amesbury, United Kingdom	645938	26428
+London, United Kingdom	Edinburgh, United Kingdom	666441	26660
+Brussels, Belgium	Edinburgh, United Kingdom	996513	39773
+Edinburgh, United Kingdom	Paris, France	1092900	42715
+Edinburgh, United Kingdom	Pamplona, Spain	1961016	71486
+Lagos, Portugal	Edinburgh, United Kingdom	3051100	104970
+Granada, Spain	Edinburgh, United Kingdom	2771260	97152
+Edinburgh, United Kingdom	Ibiza, Spain	2688041	98954
+Barcelona, Spain	Edinburgh, United Kingdom	2120933	75919
+Edinburgh, United Kingdom	Luberone, Bonnieux, France	1833476	65846
+Edinburgh, United Kingdom	Nice, France	2038030	71857
+Edinburgh, United Kingdom	Monte Carlo, Monaco	2060104	73104
+Interlaken, Switzerland	Edinburgh, United Kingdom	1702524	62443
+Inverness, United Kingdom	Ballybunion, Ireland	942990	44750
+Inverness, United Kingdom	Cliffs of Moher, Clare, Ireland	940999	44585
+Inverness, United Kingdom	Cornwall, England	1105693	40777
+Inverness, United Kingdom	Stonehenge, Amesbury, United Kingdom	893846	34730
+Inverness, United Kingdom	London, United Kingdom	914350	34962
+Inverness, United Kingdom	Brussels, Belgium	1251704	49074
+Inverness, United Kingdom	Paris, France	1348091	52016
+Inverness, United Kingdom	Pamplona, Spain	2216207	80787
+Inverness, United Kingdom	Lagos, Portugal	3306290	114271
+Inverness, United Kingdom	Granada, Spain	3026450	106453
+Inverness, United Kingdom	Ibiza, Spain	2943232	108254
+Inverness, United Kingdom	Barcelona, Spain	2376124	85220
+Inverness, United Kingdom	Luberone, Bonnieux, France	2088666	75147
+Inverness, United Kingdom	Nice, France	2293221	81158
+Inverness, United Kingdom	Monte Carlo, Monaco	2315295	82405
+Inverness, United Kingdom	Interlaken, Switzerland	1957714	71744
+Ballybunion, Ireland	Cliffs of Moher, Clare, Ireland	154661	8384
+Ballybunion, Ireland	Cornwall, England	1077592	46694
+Ballybunion, Ireland	Stonehenge, Amesbury, United Kingdom	865746	40647
+London, United Kingdom	Ballybunion, Ireland	886249	40879
+Brussels, Belgium	Ballybunion, Ireland	1250014	55197
+Ballybunion, Ireland	Paris, France	1346401	58138
+Ballybunion, Ireland	Pamplona, Spain	2214517	86909
+Ballybunion, Ireland	Lagos, Portugal	3304600	120394
+Ballybunion, Ireland	Granada, Spain	3024760	112576
+Ballybunion, Ireland	Ibiza, Spain	2941542	114377
+Barcelona, Spain	Ballybunion, Ireland	2374434	91343
+Ballybunion, Ireland	Luberone, Bonnieux, France	2086977	81270
+Ballybunion, Ireland	Nice, France	2291531	87281
+Ballybunion, Ireland	Monte Carlo, Monaco	2313605	88527
+Interlaken, Switzerland	Ballybunion, Ireland	1956024	77866
+Cornwall, England	Cliffs of Moher, Clare, Ireland	1075801	46513
+Stonehenge, Amesbury, United Kingdom	Cliffs of Moher, Clare, Ireland	863954	40466
+London, United Kingdom	Cliffs of Moher, Clare, Ireland	884458	40698
+Brussels, Belgium	Cliffs of Moher, Clare, Ireland	1248222	55015
+Cliffs of Moher, Clare, Ireland	Paris, France	1344609	57957
+Pamplona, Spain	Cliffs of Moher, Clare, Ireland	2212725	86728
+Lagos, Portugal	Cliffs of Moher, Clare, Ireland	3302809	120212
+Granada, Spain	Cliffs of Moher, Clare, Ireland	3022969	112394
+Ibiza, Spain	Cliffs of Moher, Clare, Ireland	2939750	114195
+Barcelona, Spain	Cliffs of Moher, Clare, Ireland	2372642	91161
+Luberone, Bonnieux, France	Cliffs of Moher, Clare, Ireland	2085185	81088
+Nice, France	Cliffs of Moher, Clare, Ireland	2289739	87099
+Monte Carlo, Monaco	Cliffs of Moher, Clare, Ireland	2311813	88346
+Interlaken, Switzerland	Cliffs of Moher, Clare, Ireland	1954232	77685
+Stonehenge, Amesbury, United Kingdom	Cornwall, England	282442	11384
+London, United Kingdom	Cornwall, England	455687	17610
+Brussels, Belgium	Cornwall, England	773412	31285
+Cornwall, England	Paris, France	869799	34227
+Cornwall, England	Pamplona, Spain	1239867	63733
+Lagos, Portugal	Cornwall, England	2329950	97217
+Granada, Spain	Cornwall, England	2050110	89399
+Cornwall, England	Ibiza, Spain	1957838	92452
+Barcelona, Spain	Cornwall, England	1897832	67431
+Cornwall, England	Luberone, Bonnieux, France	1610375	57358
+Cornwall, England	Nice, France	1814929	63369
+Cornwall, England	Monte Carlo, Monaco	1837003	64616
+Interlaken, Switzerland	Cornwall, England	1479423	53955
+London, United Kingdom	Stonehenge, Amesbury, United Kingdom	141271	6904
+Brussels, Belgium	Stonehenge, Amesbury, United Kingdom	494043	20147
+Stonehenge, Amesbury, United Kingdom	Paris, France	590430	23088
+Stonehenge, Amesbury, United Kingdom	Pamplona, Spain	1458546	51859
+Lagos, Portugal	Stonehenge, Amesbury, United Kingdom	2548629	85343
+Granada, Spain	Stonehenge, Amesbury, United Kingdom	2268790	77525
+Stonehenge, Amesbury, United Kingdom	Ibiza, Spain	2185571	79327
+Barcelona, Spain	Stonehenge, Amesbury, United Kingdom	1618463	56293
+Stonehenge, Amesbury, United Kingdom	Luberone, Bonnieux, France	1331006	46220
+Stonehenge, Amesbury, United Kingdom	Nice, France	1535560	52231
+Stonehenge, Amesbury, United Kingdom	Monte Carlo, Monaco	1557634	53477
+Interlaken, Switzerland	Stonehenge, Amesbury, United Kingdom	1200053	42816
+London, United Kingdom	Brussels, Belgium	379184	17345
+London, United Kingdom	Paris, France	475572	20286
+London, United Kingdom	Pamplona, Spain	1343688	49058
+London, United Kingdom	Lagos, Portugal	2433771	82542
+London, United Kingdom	Granada, Spain	2153931	74724
+London, United Kingdom	Ibiza, Spain	2070713	76525
+London, United Kingdom	Barcelona, Spain	1503605	53491
+London, United Kingdom	Luberone, Bonnieux, France	1216147	43418
+London, United Kingdom	Nice, France	1420701	49429
+London, United Kingdom	Monte Carlo, Monaco	1442776	50676
+London, United Kingdom	Interlaken, Switzerland	1085195	40015
+Brussels, Belgium	Paris, France	312536	12073
+Brussels, Belgium	Pamplona, Spain	1177471	41054
+Brussels, Belgium	Lagos, Portugal	2267554	74538
+Brussels, Belgium	Granada, Spain	1987714	66720
+Brussels, Belgium	Ibiza, Spain	1907677	68312
+Brussels, Belgium	Barcelona, Spain	1340569	45278
+Brussels, Belgium	Luberone, Bonnieux, France	1008788	34298
+Brussels, Belgium	Nice, France	1213342	40309
+Brussels, Belgium	Monte Carlo, Monaco	1235417	41555
+Brussels, Belgium	Interlaken, Switzerland	721670	25503
+Pamplona, Spain	Paris, France	874415	30350
+Lagos, Portugal	Paris, France	1964498	63834
+Granada, Spain	Paris, France	1684658	56016
+Ibiza, Spain	Paris, France	1604621	57608
+Barcelona, Spain	Paris, France	1037513	34574
+Luberone, Bonnieux, France	Paris, France	740120	25318
+Nice, France	Paris, France	944674	31329
+Monte Carlo, Monaco	Paris, France	966748	32576
+Interlaken, Switzerland	Paris, France	627206	23379
+Lagos, Portugal	Pamplona, Spain	1143733	36942
+Granada, Spain	Pamplona, Spain	800938	27676
+Ibiza, Spain	Pamplona, Spain	715414	29125
+Barcelona, Spain	Pamplona, Spain	488609	16612
+Pamplona, Spain	Luberone, Bonnieux, France	768433	28227
+Pamplona, Spain	Nice, France	953098	32664
+Pamplona, Spain	Monte Carlo, Monaco	975173	33910
+Interlaken, Switzerland	Pamplona, Spain	1205394	42710
+Lagos, Portugal	Granada, Spain	529591	18773
+Lagos, Portugal	Ibiza, Spain	1137974	43572
+Barcelona, Spain	Lagos, Portugal	1276897	43057
+Lagos, Portugal	Luberone, Bonnieux, France	1741845	59040
+Lagos, Portugal	Nice, France	1926511	63477
+Lagos, Portugal	Monte Carlo, Monaco	1948585	64724
+Interlaken, Switzerland	Lagos, Portugal	2263657	74488
+Granada, Spain	Ibiza, Spain	613653	26999
+Barcelona, Spain	Granada, Spain	858338	29964
+Granada, Spain	Luberone, Bonnieux, France	1323286	45947
+Granada, Spain	Nice, France	1507952	50384
+Granada, Spain	Monte Carlo, Monaco	1530026	51631
+Interlaken, Switzerland	Granada, Spain	1845098	61395
+Barcelona, Spain	Ibiza, Spain	583184	25914
+Ibiza, Spain	Luberone, Bonnieux, France	1048133	41898
+Ibiza, Spain	Nice, France	1232798	46335
+Ibiza, Spain	Monte Carlo, Monaco	1254872	47582
+Interlaken, Switzerland	Ibiza, Spain	1569944	57346
+Barcelona, Spain	Luberone, Bonnieux, France	477287	18387
+Barcelona, Spain	Nice, France	661953	22824
+Barcelona, Spain	Monte Carlo, Monaco	684027	24071
+Barcelona, Spain	Interlaken, Switzerland	999099	33834
+Luberone, Bonnieux, France	Nice, France	227078	9373
+Luberone, Bonnieux, France	Monte Carlo, Monaco	249152	10619
+Interlaken, Switzerland	Luberone, Bonnieux, France	627604	22276
+Monte Carlo, Monaco	Nice, France	20985	2153
+Interlaken, Switzerland	Nice, France	571404	24201
+Interlaken, Switzerland	Monte Carlo, Monaco	557568	23695

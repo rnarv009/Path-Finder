@@ -1,0 +1,631 @@
+waypoint1	waypoint2	distance_m	duration_s
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Taj Mahal, Agra, Uttar Pradesh, India	589036	37014
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	891377	55377
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Amer Fort and Palace, Jaipur, Rajasthan, India	353092	22640
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	585072	36634
+Maharajah's Palace, Mysore, Karnataka, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	2005101	116033
+Swaminarayan Akshardham, New Delhi, Delhi, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	605441	36887
+Agra Fort, Agra, Uttar Pradesh, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	581554	36080
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Humayun's Tomb, New Delhi, Delhi, India	598733	36231
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Qutub Minar, New Delhi, Delhi, India	589395	35600
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	990799	58171
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	278168	16513
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1634546	100591
+Gandhi Smriti, New Delhi, Delhi, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	601355	36598
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	264887	18000
+India Backwaters, Kochi, Kerala, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	2510348	145004
+Golden Temple, Amritsar, Punjab, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	756928	48092
+Ajanta Caves, Aurangabad, Maharashtra, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	973650	62554
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1003383	58854
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Virupaksha Temple, Hampi, Karnataka, India	1707834	101470
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Palolem Beach, Goa, India	1597217	96618
+Kanha National Park, Madhya Pradesh, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	1234640	71600
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1194823	70779
+Dal Lake, Rainawari, Srinagar	Mehrangarh Fort, Jodhpur, Rajasthan, India	1183704	78502
+Jog Falls, Karnataka, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	1708380	100290
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	345005	21500
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	994853	58835
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	602720	36734
+Charminar, Hyderabad, Telangana, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	1603811	100982
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	2422595	138048
+Mehrangarh Fort, Jodhpur, Rajasthan, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1953905	118046
+Kaziranga National Park, Kanchanjuri, Assam, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	2548040	153537
+Konark Sun Temple, Konark, Odisha, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	1998729	129851
+Marina Beach, Chennai, Tamil Nadu, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	2310816	131806
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	450297	26635
+Solang Valley, Burwa, Himachal Pradesh, India	Mehrangarh Fort, Jodhpur, Rajasthan, India	996606	74895
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Taj Mahal, Agra, Uttar Pradesh, India	444624	29314
+Amer Fort and Palace, Jaipur, Rajasthan, India	Taj Mahal, Agra, Uttar Pradesh, India	251691	16654
+Taj Mahal, Agra, Uttar Pradesh, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	10657	1841
+Maharajah's Palace, Mysore, Karnataka, India	Taj Mahal, Agra, Uttar Pradesh, India	2081880	118812
+Swaminarayan Akshardham, New Delhi, Delhi, India	Taj Mahal, Agra, Uttar Pradesh, India	212996	10298
+Agra Fort, Agra, Uttar Pradesh, India	Taj Mahal, Agra, Uttar Pradesh, India	6948	1296
+Humayun's Tomb, New Delhi, Delhi, India	Taj Mahal, Agra, Uttar Pradesh, India	215843	10584
+Taj Mahal, Agra, Uttar Pradesh, India	Qutub Minar, New Delhi, Delhi, India	223142	11596
+Taj Mahal, Agra, Uttar Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1407923	84377
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Taj Mahal, Agra, Uttar Pradesh, India	803179	50911
+Taj Mahal, Agra, Uttar Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1379394	80598
+Gandhi Smriti, New Delhi, Delhi, India	Taj Mahal, Agra, Uttar Pradesh, India	218319	10806
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Taj Mahal, Agra, Uttar Pradesh, India	646330	39379
+India Backwaters, Kochi, Kerala, India	Taj Mahal, Agra, Uttar Pradesh, India	2489853	145034
+Golden Temple, Amritsar, Punjab, India	Taj Mahal, Agra, Uttar Pradesh, India	676364	37366
+Ajanta Caves, Aurangabad, Maharashtra, India	Taj Mahal, Agra, Uttar Pradesh, India	1049871	72031
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Taj Mahal, Agra, Uttar Pradesh, India	1350490	84479
+Taj Mahal, Agra, Uttar Pradesh, India	Virupaksha Temple, Hampi, Karnataka, India	1745476	105361
+Taj Mahal, Agra, Uttar Pradesh, India	Palolem Beach, Goa, India	1810086	118479
+Kanha National Park, Madhya Pradesh, India	Taj Mahal, Agra, Uttar Pradesh, India	780758	47644
+Taj Mahal, Agra, Uttar Pradesh, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	610073	34803
+Dal Lake, Rainawari, Srinagar	Taj Mahal, Agra, Uttar Pradesh, India	1034045	63130
+Jog Falls, Karnataka, India	Taj Mahal, Agra, Uttar Pradesh, India	1921250	122151
+Taj Mahal, Agra, Uttar Pradesh, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	244039	16051
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Taj Mahal, Agra, Uttar Pradesh, India	1351535	84762
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Taj Mahal, Agra, Uttar Pradesh, India	219566	10858
+Charminar, Hyderabad, Telangana, India	Taj Mahal, Agra, Uttar Pradesh, India	1348659	80989
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Taj Mahal, Agra, Uttar Pradesh, India	2402100	138079
+Taj Mahal, Agra, Uttar Pradesh, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1369155	82071
+Kaziranga National Park, Kanchanjuri, Assam, India	Taj Mahal, Agra, Uttar Pradesh, India	1963290	117561
+Konark Sun Temple, Konark, Odisha, India	Taj Mahal, Agra, Uttar Pradesh, India	1532680	101014
+Marina Beach, Chennai, Tamil Nadu, India	Taj Mahal, Agra, Uttar Pradesh, India	1975433	115608
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Taj Mahal, Agra, Uttar Pradesh, India	921316	53587
+Solang Valley, Burwa, Himachal Pradesh, India	Taj Mahal, Agra, Uttar Pradesh, India	775254	55196
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Amer Fort and Palace, Jaipur, Rajasthan, India	640469	42771
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	455736	29743
+Maharajah's Palace, Mysore, Karnataka, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	1821391	104620
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Swaminarayan Akshardham, New Delhi, Delhi, India	641869	37545
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Agra Fort, Agra, Uttar Pradesh, India	412526	29413
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Humayun's Tomb, New Delhi, Delhi, India	644716	37831
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Qutub Minar, New Delhi, Delhi, India	652015	38843
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1157458	74101
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1165495	70688
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1118905	66405
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Gandhi Smriti, New Delhi, Delhi, India	647191	38053
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	784699	45747
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	India Backwaters, Kochi, Kerala, India	2229364	130842
+Golden Temple, Amritsar, Punjab, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	1105237	64613
+Ajanta Caves, Aurangabad, Maharashtra, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	860734	61254
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1161353	73702
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Virupaksha Temple, Hampi, Karnataka, India	1484987	91168
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Palolem Beach, Goa, India	1620949	107702
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Kanha National Park, Madhya Pradesh, India	377452	30448
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	426089	31405
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Dal Lake, Rainawari, Srinagar	1462918	90377
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Jog Falls, Karnataka, India	1765015	110723
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	632817	42168
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	1162398	73986
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	648439	38105
+Charminar, Hyderabad, Telangana, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	1088170	66797
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	2141611	123886
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1305987	89641
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Kaziranga National Park, Kanchanjuri, Assam, India	1900122	125131
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Konark Sun Temple, Konark, Odisha, India	1136043	85264
+Marina Beach, Chennai, Tamil Nadu, India	Khajuraho Temples, Khajuraho, Madhya Pradesh, India	1714944	101416
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1037128	61104
+Khajuraho Temples, Khajuraho, Madhya Pradesh, India	Solang Valley, Burwa, Himachal Pradesh, India	1204127	82443
+Amer Fort and Palace, Jaipur, Rajasthan, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	247544	16323
+Maharajah's Palace, Mysore, Karnataka, India	Amer Fort and Palace, Jaipur, Rajasthan, India	2071889	126437
+Swaminarayan Akshardham, New Delhi, Delhi, India	Amer Fort and Palace, Jaipur, Rajasthan, India	256739	16451
+Agra Fort, Agra, Uttar Pradesh, India	Amer Fort and Palace, Jaipur, Rajasthan, India	244026	15768
+Humayun's Tomb, New Delhi, Delhi, India	Amer Fort and Palace, Jaipur, Rajasthan, India	250031	15795
+Amer Fort and Palace, Jaipur, Rajasthan, India	Qutub Minar, New Delhi, Delhi, India	240693	15164
+Amer Fort and Palace, Jaipur, Rajasthan, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1172231	70053
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Amer Fort and Palace, Jaipur, Rajasthan, India	565857	36385
+Amer Fort and Palace, Jaipur, Rajasthan, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1602778	93227
+Gandhi Smriti, New Delhi, Delhi, India	Amer Fort and Palace, Jaipur, Rajasthan, India	252653	16162
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Amer Fort and Palace, Jaipur, Rajasthan, India	410638	25056
+India Backwaters, Kochi, Kerala, India	Amer Fort and Palace, Jaipur, Rajasthan, India	2577136	155408
+Golden Temple, Amritsar, Punjab, India	Amer Fort and Palace, Jaipur, Rajasthan, India	714483	40055
+Ajanta Caves, Aurangabad, Maharashtra, India	Amer Fort and Palace, Jaipur, Rajasthan, India	978044	61884
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Amer Fort and Palace, Jaipur, Rajasthan, India	1184815	70736
+Amer Fort and Palace, Jaipur, Rajasthan, India	Virupaksha Temple, Hampi, Karnataka, India	1629174	104669
+Amer Fort and Palace, Jaipur, Rajasthan, India	Palolem Beach, Goa, India	1664005	107021
+Kanha National Park, Madhya Pradesh, India	Amer Fort and Palace, Jaipur, Rajasthan, India	1004142	60273
+Amer Fort and Palace, Jaipur, Rajasthan, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	857295	50467
+Dal Lake, Rainawari, Srinagar	Amer Fort and Palace, Jaipur, Rajasthan, India	1072164	65819
+Jog Falls, Karnataka, India	Amer Fort and Palace, Jaipur, Rajasthan, India	1775168	110694
+Amer Fort and Palace, Jaipur, Rajasthan, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	8507	1303
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Amer Fort and Palace, Jaipur, Rajasthan, India	1176286	70717
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Amer Fort and Palace, Jaipur, Rajasthan, India	254018	16298
+Charminar, Hyderabad, Telangana, India	Amer Fort and Palace, Jaipur, Rajasthan, India	1572043	93618
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Amer Fort and Palace, Jaipur, Rajasthan, India	2489383	148452
+Amer Fort and Palace, Jaipur, Rajasthan, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1616378	97734
+Kaziranga National Park, Kanchanjuri, Assam, India	Amer Fort and Palace, Jaipur, Rajasthan, India	2210513	133225
+Konark Sun Temple, Konark, Odisha, India	Amer Fort and Palace, Jaipur, Rajasthan, India	1779903	116678
+Marina Beach, Chennai, Tamil Nadu, India	Amer Fort and Palace, Jaipur, Rajasthan, India	2198817	128238
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Amer Fort and Palace, Jaipur, Rajasthan, India	685624	39263
+Solang Valley, Burwa, Himachal Pradesh, India	Amer Fort and Palace, Jaipur, Rajasthan, India	813374	57885
+Maharajah's Palace, Mysore, Karnataka, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	2081239	118449
+Swaminarayan Akshardham, New Delhi, Delhi, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	196832	9571
+Agra Fort, Agra, Uttar Pradesh, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	3944	587
+Humayun's Tomb, New Delhi, Delhi, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	199679	9857
+Itmad-ud-Daula, Agra, Uttar Pradesh, India	Qutub Minar, New Delhi, Delhi, India	206978	10869
+Itmad-ud-Daula, Agra, Uttar Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1404683	83799
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	799939	50333
+Itmad-ud-Daula, Agra, Uttar Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1378753	80234
+Gandhi Smriti, New Delhi, Delhi, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	202154	10079
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	643090	38801
+India Backwaters, Kochi, Kerala, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	2489211	144671
+Golden Temple, Amritsar, Punjab, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	660200	36640
+Ajanta Caves, Aurangabad, Maharashtra, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1049230	71667
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1349848	84115
+Virupaksha Temple, Hampi, Karnataka, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1744835	104997
+Palolem Beach, Goa, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1809445	118115
+Kanha National Park, Madhya Pradesh, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	780116	47280
+Itmad-ud-Daula, Agra, Uttar Pradesh, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	617813	34915
+Dal Lake, Rainawari, Srinagar	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1017881	62404
+Jog Falls, Karnataka, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1920609	121788
+Itmad-ud-Daula, Agra, Uttar Pradesh, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	240799	15473
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1350894	84398
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	203402	10131
+Charminar, Hyderabad, Telangana, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1348018	80625
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	2401459	137715
+Itmad-ud-Daula, Agra, Uttar Pradesh, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1376896	82182
+Kaziranga National Park, Kanchanjuri, Assam, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1971031	117673
+Konark Sun Temple, Konark, Odisha, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1540421	101126
+Marina Beach, Chennai, Tamil Nadu, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	1974792	115244
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	918076	53009
+Solang Valley, Burwa, Himachal Pradesh, India	Itmad-ud-Daula, Agra, Uttar Pradesh, India	759090	54469
+Maharajah's Palace, Mysore, Karnataka, India	Swaminarayan Akshardham, New Delhi, Delhi, India	2284369	128324
+Maharajah's Palace, Mysore, Karnataka, India	Agra Fort, Agra, Uttar Pradesh, India	2070973	118324
+Maharajah's Palace, Mysore, Karnataka, India	Humayun's Tomb, New Delhi, Delhi, India	2287216	128610
+Maharajah's Palace, Mysore, Karnataka, India	Qutub Minar, New Delhi, Delhi, India	2294515	129622
+Maharajah's Palace, Mysore, Karnataka, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1053260	60148
+Maharajah's Palace, Mysore, Karnataka, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	2085907	121044
+Maharajah's Palace, Mysore, Karnataka, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	715713	39749
+Maharajah's Palace, Mysore, Karnataka, India	Gandhi Smriti, New Delhi, Delhi, India	2289692	128831
+Maharajah's Palace, Mysore, Karnataka, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1778055	101612
+Maharajah's Palace, Mysore, Karnataka, India	India Backwaters, Kochi, Kerala, India	398808	31611
+Maharajah's Palace, Mysore, Karnataka, India	Golden Temple, Amritsar, Punjab, India	2747737	155392
+Maharajah's Palace, Mysore, Karnataka, India	Ajanta Caves, Aurangabad, Maharashtra, India	1191680	72247
+Maharajah's Palace, Mysore, Karnataka, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1051361	59754
+Maharajah's Palace, Mysore, Karnataka, India	Virupaksha Temple, Hampi, Karnataka, India	416406	29386
+Maharajah's Palace, Mysore, Karnataka, India	Palolem Beach, Goa, India	616217	38916
+Maharajah's Palace, Mysore, Karnataka, India	Kanha National Park, Madhya Pradesh, India	1494094	85791
+Maharajah's Palace, Mysore, Karnataka, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1972639	126419
+Maharajah's Palace, Mysore, Karnataka, India	Dal Lake, Rainawari, Srinagar	3105418	181156
+Maharajah's Palace, Mysore, Karnataka, India	Jog Falls, Karnataka, India	351540	26319
+Maharajah's Palace, Mysore, Karnataka, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	2064912	124586
+Maharajah's Palace, Mysore, Karnataka, India	Marine Drive, Chowpatty, Mumbai, Maharashtra, India	1052407	60038
+Maharajah's Palace, Mysore, Karnataka, India	Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	2290940	128884
+Maharajah's Palace, Mysore, Karnataka, India	Charminar, Hyderabad, Telangana, India	713578	40295
+Maharajah's Palace, Mysore, Karnataka, India	Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	347979	28287
+Maharajah's Palace, Mysore, Karnataka, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2603241	177943
+Maharajah's Palace, Mysore, Karnataka, India	Kaziranga National Park, Kanchanjuri, Assam, India	3197376	213433
+Maharajah's Palace, Mysore, Karnataka, India	Konark Sun Temple, Konark, Odisha, India	1602786	103760
+Maharajah's Palace, Mysore, Karnataka, India	Marina Beach, Chennai, Tamil Nadu, India	489362	31705
+Maharajah's Palace, Mysore, Karnataka, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1560164	88913
+Maharajah's Palace, Mysore, Karnataka, India	Solang Valley, Burwa, Himachal Pradesh, India	2846628	173222
+Agra Fort, Agra, Uttar Pradesh, India	Swaminarayan Akshardham, New Delhi, Delhi, India	201955	10156
+Swaminarayan Akshardham, New Delhi, Delhi, India	Humayun's Tomb, New Delhi, Delhi, India	9268	1083
+Swaminarayan Akshardham, New Delhi, Delhi, India	Qutub Minar, New Delhi, Delhi, India	18134	2560
+Swaminarayan Akshardham, New Delhi, Delhi, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1424665	83724
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Swaminarayan Akshardham, New Delhi, Delhi, India	814349	50052
+Swaminarayan Akshardham, New Delhi, Delhi, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1589599	89804
+Gandhi Smriti, New Delhi, Delhi, India	Swaminarayan Akshardham, New Delhi, Delhi, India	5942	747
+Swaminarayan Akshardham, New Delhi, Delhi, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	663071	38727
+India Backwaters, Kochi, Kerala, India	Swaminarayan Akshardham, New Delhi, Delhi, India	2700057	154240
+Golden Temple, Amritsar, Punjab, India	Swaminarayan Akshardham, New Delhi, Delhi, India	463987	27307
+Ajanta Caves, Aurangabad, Maharashtra, India	Swaminarayan Akshardham, New Delhi, Delhi, India	1230478	75555
+Swaminarayan Akshardham, New Delhi, Delhi, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1437249	84407
+Swaminarayan Akshardham, New Delhi, Delhi, India	Virupaksha Temple, Hampi, Karnataka, India	1955680	114567
+Swaminarayan Akshardham, New Delhi, Delhi, India	Palolem Beach, Goa, India	1916438	120692
+Kanha National Park, Madhya Pradesh, India	Swaminarayan Akshardham, New Delhi, Delhi, India	990962	56850
+Swaminarayan Akshardham, New Delhi, Delhi, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	804324	42681
+Dal Lake, Rainawari, Srinagar	Swaminarayan Akshardham, New Delhi, Delhi, India	821668	53071
+Jog Falls, Karnataka, India	Swaminarayan Akshardham, New Delhi, Delhi, India	2027602	124365
+Swaminarayan Akshardham, New Delhi, Delhi, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	264445	16998
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Swaminarayan Akshardham, New Delhi, Delhi, India	1428719	84388
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Swaminarayan Akshardham, New Delhi, Delhi, India	7190	799
+Charminar, Hyderabad, Telangana, India	Swaminarayan Akshardham, New Delhi, Delhi, India	1558864	90195
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Swaminarayan Akshardham, New Delhi, Delhi, India	2612304	147285
+Swaminarayan Akshardham, New Delhi, Delhi, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1563406	89948
+Kaziranga National Park, Kanchanjuri, Assam, India	Swaminarayan Akshardham, New Delhi, Delhi, India	2157541	125439
+Konark Sun Temple, Konark, Odisha, India	Swaminarayan Akshardham, New Delhi, Delhi, India	1726931	108891
+Marina Beach, Chennai, Tamil Nadu, India	Swaminarayan Akshardham, New Delhi, Delhi, India	2185637	124814
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Swaminarayan Akshardham, New Delhi, Delhi, India	938058	52934
+Solang Valley, Burwa, Himachal Pradesh, India	Swaminarayan Akshardham, New Delhi, Delhi, India	562878	45137
+Agra Fort, Agra, Uttar Pradesh, India	Humayun's Tomb, New Delhi, Delhi, India	202549	10356
+Agra Fort, Agra, Uttar Pradesh, India	Qutub Minar, New Delhi, Delhi, India	209848	11368
+Agra Fort, Agra, Uttar Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1400893	83409
+Agra Fort, Agra, Uttar Pradesh, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	796149	49944
+Agra Fort, Agra, Uttar Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1374963	79845
+Gandhi Smriti, New Delhi, Delhi, India	Agra Fort, Agra, Uttar Pradesh, India	205024	10578
+Agra Fort, Agra, Uttar Pradesh, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	639300	38412
+India Backwaters, Kochi, Kerala, India	Agra Fort, Agra, Uttar Pradesh, India	2485421	144281
+Golden Temple, Amritsar, Punjab, India	Agra Fort, Agra, Uttar Pradesh, India	663070	37138
+Ajanta Caves, Aurangabad, Maharashtra, India	Agra Fort, Agra, Uttar Pradesh, India	1045440	71278
+Agra Fort, Agra, Uttar Pradesh, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1346059	83726
+Agra Fort, Agra, Uttar Pradesh, India	Virupaksha Temple, Hampi, Karnataka, India	1741045	104608
+Agra Fort, Agra, Uttar Pradesh, India	Palolem Beach, Goa, India	1805655	117726
+Kanha National Park, Madhya Pradesh, India	Agra Fort, Agra, Uttar Pradesh, India	776326	46891
+Agra Fort, Agra, Uttar Pradesh, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	612676	35060
+Dal Lake, Rainawari, Srinagar	Agra Fort, Agra, Uttar Pradesh, India	1020751	62902
+Jog Falls, Karnataka, India	Agra Fort, Agra, Uttar Pradesh, India	1916819	121398
+Agra Fort, Agra, Uttar Pradesh, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	237009	15084
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Agra Fort, Agra, Uttar Pradesh, India	1347104	84009
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Agra Fort, Agra, Uttar Pradesh, India	206272	10630
+Charminar, Hyderabad, Telangana, India	Agra Fort, Agra, Uttar Pradesh, India	1344228	80236
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Agra Fort, Agra, Uttar Pradesh, India	2397669	137326
+Agra Fort, Agra, Uttar Pradesh, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1371758	82327
+Agra Fort, Agra, Uttar Pradesh, India	Kaziranga National Park, Kanchanjuri, Assam, India	1965893	117817
+Agra Fort, Agra, Uttar Pradesh, India	Konark Sun Temple, Konark, Odisha, India	1535283	101270
+Marina Beach, Chennai, Tamil Nadu, India	Agra Fort, Agra, Uttar Pradesh, India	1971002	114855
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Agra Fort, Agra, Uttar Pradesh, India	914286	52619
+Solang Valley, Burwa, Himachal Pradesh, India	Agra Fort, Agra, Uttar Pradesh, India	761960	54968
+Humayun's Tomb, New Delhi, Delhi, India	Qutub Minar, New Delhi, Delhi, India	12072	1618
+Humayun's Tomb, New Delhi, Delhi, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1419786	83071
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Humayun's Tomb, New Delhi, Delhi, India	809470	49398
+Humayun's Tomb, New Delhi, Delhi, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1592206	89756
+Gandhi Smriti, New Delhi, Delhi, India	Humayun's Tomb, New Delhi, Delhi, India	7189	929
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Humayun's Tomb, New Delhi, Delhi, India	658193	38073
+India Backwaters, Kochi, Kerala, India	Humayun's Tomb, New Delhi, Delhi, India	2702665	154193
+Golden Temple, Amritsar, Punjab, India	Humayun's Tomb, New Delhi, Delhi, India	466677	27586
+Ajanta Caves, Aurangabad, Maharashtra, India	Humayun's Tomb, New Delhi, Delhi, India	1225599	74901
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Humayun's Tomb, New Delhi, Delhi, India	1432370	83753
+Humayun's Tomb, New Delhi, Delhi, India	Virupaksha Temple, Hampi, Karnataka, India	1958288	114519
+Humayun's Tomb, New Delhi, Delhi, India	Palolem Beach, Goa, India	1911560	120039
+Kanha National Park, Madhya Pradesh, India	Humayun's Tomb, New Delhi, Delhi, India	993570	56802
+Humayun's Tomb, New Delhi, Delhi, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	806931	42633
+Dal Lake, Rainawari, Srinagar	Humayun's Tomb, New Delhi, Delhi, India	824358	53350
+Jog Falls, Karnataka, India	Humayun's Tomb, New Delhi, Delhi, India	2022723	123712
+Humayun's Tomb, New Delhi, Delhi, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	259566	16344
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Humayun's Tomb, New Delhi, Delhi, India	1423841	83735
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Humayun's Tomb, New Delhi, Delhi, India	8554	1065
+Charminar, Hyderabad, Telangana, India	Humayun's Tomb, New Delhi, Delhi, India	1561471	90147
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Humayun's Tomb, New Delhi, Delhi, India	2614912	147237
+Humayun's Tomb, New Delhi, Delhi, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1566014	89901
+Kaziranga National Park, Kanchanjuri, Assam, India	Humayun's Tomb, New Delhi, Delhi, India	2160149	125391
+Konark Sun Temple, Konark, Odisha, India	Humayun's Tomb, New Delhi, Delhi, India	1729539	108844
+Marina Beach, Chennai, Tamil Nadu, India	Humayun's Tomb, New Delhi, Delhi, India	2188245	124766
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Humayun's Tomb, New Delhi, Delhi, India	933179	52281
+Solang Valley, Burwa, Himachal Pradesh, India	Humayun's Tomb, New Delhi, Delhi, India	565568	45416
+Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	Qutub Minar, New Delhi, Delhi, India	1409436	82515
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Qutub Minar, New Delhi, Delhi, India	799121	48843
+Golconda Fort, Fort Road, Hyderabad, Telangana, India	Qutub Minar, New Delhi, Delhi, India	1599447	91038
+Gandhi Smriti, New Delhi, Delhi, India	Qutub Minar, New Delhi, Delhi, India	18386	2295
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Qutub Minar, New Delhi, Delhi, India	647843	37518
+India Backwaters, Kochi, Kerala, India	Qutub Minar, New Delhi, Delhi, India	2709905	155475
+Golden Temple, Amritsar, Punjab, India	Qutub Minar, New Delhi, Delhi, India	472151	28749
+Ajanta Caves, Aurangabad, Maharashtra, India	Qutub Minar, New Delhi, Delhi, India	1215249	74346
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Qutub Minar, New Delhi, Delhi, India	1422020	83198
+Virupaksha Temple, Hampi, Karnataka, India	Qutub Minar, New Delhi, Delhi, India	1965529	115801
+Palolem Beach, Goa, India	Qutub Minar, New Delhi, Delhi, India	1901210	119484
+Kanha National Park, Madhya Pradesh, India	Qutub Minar, New Delhi, Delhi, India	1000811	58084
+Ganges, Katesar, Varanasi, Uttar Pradesh, India	Qutub Minar, New Delhi, Delhi, India	814172	43915
+Dal Lake, Rainawari, Srinagar	Qutub Minar, New Delhi, Delhi, India	829833	54513
+Jog Falls, Karnataka, India	Qutub Minar, New Delhi, Delhi, India	2012374	123156
+Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	Qutub Minar, New Delhi, Delhi, India	249216	15789
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Qutub Minar, New Delhi, Delhi, India	1413491	83179
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Qutub Minar, New Delhi, Delhi, India	19751	2431
+Charminar, Hyderabad, Telangana, India	Qutub Minar, New Delhi, Delhi, India	1568712	91429
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Qutub Minar, New Delhi, Delhi, India	2622153	148519
+Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	Qutub Minar, New Delhi, Delhi, India	1573255	91183
+Kaziranga National Park, Kanchanjuri, Assam, India	Qutub Minar, New Delhi, Delhi, India	2167390	126673
+Konark Sun Temple, Konark, Odisha, India	Qutub Minar, New Delhi, Delhi, India	1736780	110126
+Marina Beach, Chennai, Tamil Nadu, India	Qutub Minar, New Delhi, Delhi, India	2195486	126048
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Qutub Minar, New Delhi, Delhi, India	922830	51725
+Solang Valley, Burwa, Himachal Pradesh, India	Qutub Minar, New Delhi, Delhi, India	571042	46579
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1070785	64383
+Golconda Fort, Fort Road, Hyderabad, Telangana, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	710568	46448
+Gandhi Smriti, New Delhi, Delhi, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1421750	83684
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	762933	44951
+India Backwaters, Kochi, Kerala, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1560312	89977
+Golden Temple, Amritsar, Punjab, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1738054	104262
+Ajanta Caves, Aurangabad, Maharashtra, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	445589	30773
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	5818	1102
+Virupaksha Temple, Hampi, Karnataka, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	757798	46443
+Palolem Beach, Goa, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	647181	41591
+Kanha National Park, Madhya Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1118959	71276
+Ganges, Katesar, Varanasi, Uttar Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1565465	99626
+Dal Lake, Rainawari, Srinagar	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	2140125	133745
+Jog Falls, Karnataka, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	758344	45264
+Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1165400	68586
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	4354	798
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1423115	83819
+Charminar, Hyderabad, Telangana, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	725700	47975
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1472559	83022
+Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	2493917	154292
+Kaziranga National Park, Kanchanjuri, Assam, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	3088052	189782
+Konark Sun Temple, Konark, Odisha, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1821504	115481
+Marina Beach, Chennai, Tamil Nadu, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1360780	76779
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	545042	32252
+Solang Valley, Burwa, Himachal Pradesh, India	Mani Bhavan Gandhi Sanghralaya, Laburnum Road, Papanas Wadi, Mumbai, Maharashtra, India	1982471	125406
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1740070	108070
+Gandhi Smriti, New Delhi, Delhi, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	801925	49926
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	486127	31611
+India Backwaters, Kochi, Kerala, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	2589814	151599
+Golden Temple, Amritsar, Punjab, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	777715	48172
+Ajanta Caves, Aurangabad, Maharashtra, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1099053	73346
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1082848	65449
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Virupaksha Temple, Hampi, Karnataka, India	1787299	108065
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Palolem Beach, Goa, India	1676683	103213
+Kanha National Park, Madhya Pradesh, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1510070	86900
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1422506	84954
+Dal Lake, Rainawari, Srinagar	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1204491	78582
+Jog Falls, Karnataka, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1787846	106886
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	558018	35279
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1074319	65431
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	800835	49846
+Charminar, Hyderabad, Telangana, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1755202	109597
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	2502061	144644
+Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2181589	132222
+Kaziranga National Park, Kanchanjuri, Assam, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	2775724	167712
+Konark Sun Temple, Konark, Odisha, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	2226545	143461
+Marina Beach, Chennai, Tamil Nadu, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	2390282	138401
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	529762	33231
+Solang Valley, Burwa, Himachal Pradesh, India	Jaisalmer Fort, Amar Sagar Pol, Jaisalmer, Rajasthan, India	1079702	78229
+Gandhi Smriti, New Delhi, Delhi, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1591753	91297
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1276710	85745
+India Backwaters, Kochi, Kerala, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1122161	66330
+Golden Temple, Amritsar, Punjab, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	2049798	117858
+Ajanta Caves, Aurangabad, Maharashtra, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	569514	40366
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	714670	46860
+Virupaksha Temple, Hampi, Karnataka, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	377784	26657
+Palolem Beach, Goa, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	704706	48350
+Kanha National Park, Madhya Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	796156	48257
+Ganges, Katesar, Varanasi, Uttar Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1274700	88885
+Dal Lake, Rainawari, Srinagar	Golconda Fort, Fort Road, Hyderabad, Telangana, India	2407480	143622
+Jog Falls, Karnataka, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	657812	46211
+Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1593325	93545
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	715716	47143
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1593001	91350
+Charminar, Hyderabad, Telangana, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	9947	1987
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1034408	59375
+Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	2123094	145109
+Kaziranga National Park, Kanchanjuri, Assam, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	2717229	180600
+Konark Sun Temple, Konark, Odisha, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1122639	70927
+Marina Beach, Chennai, Tamil Nadu, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	669698	39497
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	1223473	76019
+Solang Valley, Burwa, Himachal Pradesh, India	Golconda Fort, Fort Road, Hyderabad, Telangana, India	2148689	135688
+Gandhi Smriti, New Delhi, Delhi, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	661630	38583
+Gandhi Smriti, New Delhi, Delhi, India	India Backwaters, Kochi, Kerala, India	2704847	154577
+Golden Temple, Amritsar, Punjab, India	Gandhi Smriti, New Delhi, Delhi, India	459788	26876
+Ajanta Caves, Aurangabad, Maharashtra, India	Gandhi Smriti, New Delhi, Delhi, India	1229036	75411
+Gandhi Smriti, New Delhi, Delhi, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1435807	84263
+Gandhi Smriti, New Delhi, Delhi, India	Virupaksha Temple, Hampi, Karnataka, India	1960470	114904
+Gandhi Smriti, New Delhi, Delhi, India	Palolem Beach, Goa, India	1914997	120548
+Gandhi Smriti, New Delhi, Delhi, India	Kanha National Park, Madhya Pradesh, India	995752	57187
+Gandhi Smriti, New Delhi, Delhi, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	809114	43018
+Gandhi Smriti, New Delhi, Delhi, India	Dal Lake, Rainawari, Srinagar	817469	52640
+Gandhi Smriti, New Delhi, Delhi, India	Jog Falls, Karnataka, India	2026160	124221
+Gandhi Smriti, New Delhi, Delhi, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	263003	16854
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Gandhi Smriti, New Delhi, Delhi, India	1427278	84244
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Gandhi Smriti, New Delhi, Delhi, India	3375	419
+Charminar, Hyderabad, Telangana, India	Gandhi Smriti, New Delhi, Delhi, India	1563654	90532
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Gandhi Smriti, New Delhi, Delhi, India	2617095	147622
+Gandhi Smriti, New Delhi, Delhi, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1568196	90285
+Gandhi Smriti, New Delhi, Delhi, India	Kaziranga National Park, Kanchanjuri, Assam, India	2162331	125776
+Gandhi Smriti, New Delhi, Delhi, India	Konark Sun Temple, Konark, Odisha, India	1731721	109228
+Marina Beach, Chennai, Tamil Nadu, India	Gandhi Smriti, New Delhi, Delhi, India	2190428	125151
+Gandhi Smriti, New Delhi, Delhi, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	936616	52790
+Gandhi Smriti, New Delhi, Delhi, India	Solang Valley, Burwa, Himachal Pradesh, India	558678	44706
+India Backwaters, Kochi, Kerala, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	2282631	132281
+Golden Temple, Amritsar, Punjab, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	971608	60205
+Ajanta Caves, Aurangabad, Maharashtra, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	722904	47107
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	775666	46131
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Virupaksha Temple, Hampi, Karnataka, India	1480117	88747
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Palolem Beach, Goa, India	1369500	83895
+Kanha National Park, Madhya Pradesh, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1128532	61998
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1139695	65918
+Dal Lake, Rainawari, Srinagar	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1376256	89207
+Jog Falls, Karnataka, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1480664	87567
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	401531	24048
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	767136	46112
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	659246	39282
+Charminar, Hyderabad, Telangana, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1353065	85535
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	2194878	125325
+Palace Of Maharana Pratap, Udaipur, Rajasthan, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1949708	118880
+Kaziranga National Park, Kanchanjuri, Assam, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	2543843	154371
+Konark Sun Temple, Konark, Odisha, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1747982	114404
+Marina Beach, Chennai, Tamil Nadu, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	2083099	119083
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	254661	15790
+Solang Valley, Burwa, Himachal Pradesh, India	Palace Of Maharana Pratap, Udaipur, Rajasthan, India	1218602	80869
+Golden Temple, Amritsar, Punjab, India	India Backwaters, Kochi, Kerala, India	3146162	181611
+Ajanta Caves, Aurangabad, Maharashtra, India	India Backwaters, Kochi, Kerala, India	1687404	101037
+India Backwaters, Kochi, Kerala, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1547085	88545
+India Backwaters, Kochi, Kerala, India	Virupaksha Temple, Hampi, Karnataka, India	912130	58176
+India Backwaters, Kochi, Kerala, India	Palolem Beach, Goa, India	729416	64059
+India Backwaters, Kochi, Kerala, India	Kanha National Park, Madhya Pradesh, India	1892519	112009
+India Backwaters, Kochi, Kerala, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	2371063	152637
+India Backwaters, Kochi, Kerala, India	Dal Lake, Rainawari, Srinagar	3503843	207375
+India Backwaters, Kochi, Kerala, India	Jog Falls, Karnataka, India	617922	56795
+India Backwaters, Kochi, Kerala, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	2560635	153376
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	India Backwaters, Kochi, Kerala, India	1548130	88828
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	India Backwaters, Kochi, Kerala, India	2689364	155102
+Charminar, Hyderabad, Telangana, India	India Backwaters, Kochi, Kerala, India	1112003	66514
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	India Backwaters, Kochi, Kerala, India	301294	28271
+India Backwaters, Kochi, Kerala, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2884473	194680
+India Backwaters, Kochi, Kerala, India	Kaziranga National Park, Kanchanjuri, Assam, India	3478608	230170
+India Backwaters, Kochi, Kerala, India	Konark Sun Temple, Konark, Odisha, India	1884018	120497
+Marina Beach, Chennai, Tamil Nadu, India	India Backwaters, Kochi, Kerala, India	689263	44423
+India Backwaters, Kochi, Kerala, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	2055888	117704
+India Backwaters, Kochi, Kerala, India	Solang Valley, Burwa, Himachal Pradesh, India	3245052	199440
+Ajanta Caves, Aurangabad, Maharashtra, India	Golden Temple, Amritsar, Punjab, India	1552375	96933
+Golden Temple, Amritsar, Punjab, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1747121	104667
+Golden Temple, Amritsar, Punjab, India	Virupaksha Temple, Hampi, Karnataka, India	2203505	139718
+Golden Temple, Amritsar, Punjab, India	Palolem Beach, Goa, India	2238335	142070
+Golden Temple, Amritsar, Punjab, India	Kanha National Park, Madhya Pradesh, India	1452101	83564
+Golden Temple, Amritsar, Punjab, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1265463	69396
+Golden Temple, Amritsar, Punjab, India	Dal Lake, Rainawari, Srinagar	433354	32022
+Golden Temple, Amritsar, Punjab, India	Jog Falls, Karnataka, India	2349499	145743
+Golden Temple, Amritsar, Punjab, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	720937	40897
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Golden Temple, Amritsar, Punjab, India	1738592	104649
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Golden Temple, Amritsar, Punjab, India	457220	26672
+Charminar, Hyderabad, Telangana, India	Golden Temple, Amritsar, Punjab, India	2020003	116909
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Golden Temple, Amritsar, Punjab, India	3073444	173999
+Golden Temple, Amritsar, Punjab, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2024545	116663
+Golden Temple, Amritsar, Punjab, India	Kaziranga National Park, Kanchanjuri, Assam, India	2618680	152153
+Golden Temple, Amritsar, Punjab, India	Konark Sun Temple, Konark, Odisha, India	2188070	135606
+Marina Beach, Chennai, Tamil Nadu, India	Golden Temple, Amritsar, Punjab, India	2646777	151529
+Golden Temple, Amritsar, Punjab, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1194035	72449
+Golden Temple, Amritsar, Punjab, India	Solang Valley, Burwa, Himachal Pradesh, India	409318	38291
+Ajanta Caves, Aurangabad, Maharashtra, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	444283	30722
+Ajanta Caves, Aurangabad, Maharashtra, India	Virupaksha Temple, Hampi, Karnataka, India	743306	50620
+Ajanta Caves, Aurangabad, Maharashtra, India	Palolem Beach, Goa, India	783285	53312
+Ajanta Caves, Aurangabad, Maharashtra, India	Kanha National Park, Madhya Pradesh, India	664410	46080
+Ajanta Caves, Aurangabad, Maharashtra, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1142119	86386
+Ajanta Caves, Aurangabad, Maharashtra, India	Dal Lake, Rainawari, Srinagar	2046498	125458
+Ajanta Caves, Aurangabad, Maharashtra, India	Jog Falls, Karnataka, India	894448	56984
+Ajanta Caves, Aurangabad, Maharashtra, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	970637	60703
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Ajanta Caves, Aurangabad, Maharashtra, India	445328	31005
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Ajanta Caves, Aurangabad, Maharashtra, India	1228352	75936
+Charminar, Hyderabad, Telangana, India	Ajanta Caves, Aurangabad, Maharashtra, India	579990	41643
+Ajanta Caves, Aurangabad, Maharashtra, India	Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	1608663	94742
+Ajanta Caves, Aurangabad, Maharashtra, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2165361	142131
+Ajanta Caves, Aurangabad, Maharashtra, India	Kaziranga National Park, Kanchanjuri, Assam, India	2759497	177621
+Ajanta Caves, Aurangabad, Maharashtra, India	Konark Sun Temple, Konark, Odisha, India	1326540	88141
+Ajanta Caves, Aurangabad, Maharashtra, India	Marina Beach, Chennai, Tamil Nadu, India	1220401	76769
+Ajanta Caves, Aurangabad, Maharashtra, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	574566	41342
+Ajanta Caves, Aurangabad, Maharashtra, India	Solang Valley, Burwa, Himachal Pradesh, India	1787708	117523
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Virupaksha Temple, Hampi, Karnataka, India	756597	46294
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Palolem Beach, Goa, India	645980	41442
+Kanha National Park, Madhya Pradesh, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1117758	71127
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1564264	99477
+Dal Lake, Rainawari, Srinagar	Gateway Of India Mumbai, Mumbai, Maharashtra, India	2151934	134378
+Jog Falls, Karnataka, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	757143	45114
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1177210	69220
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1879	560
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1434925	84453
+Charminar, Hyderabad, Telangana, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	724499	47826
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1471358	82872
+Gateway Of India Mumbai, Mumbai, Maharashtra, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2492716	154143
+Kaziranga National Park, Kanchanjuri, Assam, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	3086851	189633
+Konark Sun Temple, Konark, Odisha, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1820303	115331
+Marina Beach, Chennai, Tamil Nadu, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1359579	76630
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	556852	32886
+Solang Valley, Burwa, Himachal Pradesh, India	Gateway Of India Mumbai, Mumbai, Maharashtra, India	1994280	126040
+Palolem Beach, Goa, India	Virupaksha Temple, Hampi, Karnataka, India	365499	26588
+Kanha National Park, Madhya Pradesh, India	Virupaksha Temple, Hampi, Karnataka, India	1152291	72573
+Virupaksha Temple, Hampi, Karnataka, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1630836	113201
+Dal Lake, Rainawari, Srinagar	Virupaksha Temple, Hampi, Karnataka, India	2697884	167853
+Jog Falls, Karnataka, India	Virupaksha Temple, Hampi, Karnataka, India	284913	22715
+Virupaksha Temple, Hampi, Karnataka, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1622023	103098
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Virupaksha Temple, Hampi, Karnataka, India	754914	46085
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Virupaksha Temple, Hampi, Karnataka, India	1949137	115666
+Charminar, Hyderabad, Telangana, India	Virupaksha Temple, Hampi, Karnataka, India	371776	27078
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Virupaksha Temple, Hampi, Karnataka, India	831559	51535
+Virupaksha Temple, Hampi, Karnataka, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2365786	168682
+Kaziranga National Park, Kanchanjuri, Assam, India	Virupaksha Temple, Hampi, Karnataka, India	2959921	204172
+Konark Sun Temple, Konark, Odisha, India	Virupaksha Temple, Hampi, Karnataka, India	1365331	94499
+Marina Beach, Chennai, Tamil Nadu, India	Virupaksha Temple, Hampi, Karnataka, India	655284	44597
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Virupaksha Temple, Hampi, Karnataka, India	1262671	74961
+Solang Valley, Burwa, Himachal Pradesh, India	Virupaksha Temple, Hampi, Karnataka, India	2439094	159919
+Kanha National Park, Madhya Pradesh, India	Palolem Beach, Goa, India	1291667	94455
+Palolem Beach, Goa, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	2018761	132912
+Dal Lake, Rainawari, Srinagar	Palolem Beach, Goa, India	2727347	170205
+Jog Falls, Karnataka, India	Palolem Beach, Goa, India	198361	15680
+Palolem Beach, Goa, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1651486	105450
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Palolem Beach, Goa, India	638981	40902
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Palolem Beach, Goa, India	1909201	120683
+Charminar, Hyderabad, Telangana, India	Palolem Beach, Goa, India	697947	48735
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Palolem Beach, Goa, India	1034130	61303
+Palolem Beach, Goa, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2947213	187578
+Kaziranga National Park, Kanchanjuri, Assam, India	Palolem Beach, Goa, India	3541348	223069
+Konark Sun Temple, Konark, Odisha, India	Palolem Beach, Goa, India	1778639	115908
+Marina Beach, Chennai, Tamil Nadu, India	Palolem Beach, Goa, India	922351	55061
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Palolem Beach, Goa, India	1146738	69777
+Solang Valley, Burwa, Himachal Pradesh, India	Palolem Beach, Goa, India	2468556	162270
+Kanha National Park, Madhya Pradesh, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	559054	47390
+Kanha National Park, Madhya Pradesh, India	Dal Lake, Rainawari, Srinagar	1803735	110251
+Kanha National Park, Madhya Pradesh, India	Jog Falls, Karnataka, India	1434966	92211
+Kanha National Park, Madhya Pradesh, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	989581	60174
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Kanha National Park, Madhya Pradesh, India	1112974	71519
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Kanha National Park, Madhya Pradesh, India	989256	57979
+Charminar, Hyderabad, Telangana, India	Kanha National Park, Madhya Pradesh, India	758122	48285
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Kanha National Park, Madhya Pradesh, India	1811562	105375
+Kanha National Park, Madhya Pradesh, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1341452	104515
+Kanha National Park, Madhya Pradesh, India	Kaziranga National Park, Kanchanjuri, Assam, India	1935587	140005
+Kanha National Park, Madhya Pradesh, India	Konark Sun Temple, Konark, Odisha, India	797720	56988
+Marina Beach, Chennai, Tamil Nadu, India	Kanha National Park, Madhya Pradesh, India	1384895	82904
+Kanha National Park, Madhya Pradesh, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1015792	66681
+Kanha National Park, Madhya Pradesh, India	Solang Valley, Burwa, Himachal Pradesh, India	1544944	102317
+Dal Lake, Rainawari, Srinagar	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1636190	96421
+Jog Falls, Karnataka, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1914963	132857
+Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	860425	50586
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1566537	100667
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	821711	44148
+Charminar, Hyderabad, Telangana, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1238118	88931
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	2291559	146021
+Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	833760	65664
+Kaziranga National Park, Kanchanjuri, Assam, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1427895	101154
+Konark Sun Temple, Konark, Odisha, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	933949	68274
+Marina Beach, Chennai, Tamil Nadu, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1864892	123550
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1391921	81312
+Solang Valley, Burwa, Himachal Pradesh, India	Ganges, Katesar, Varanasi, Uttar Pradesh, India	1377399	88487
+Jog Falls, Karnataka, India	Dal Lake, Rainawari, Srinagar	2841936	174061
+Dal Lake, Rainawari, Srinagar	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1078779	66693
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Dal Lake, Rainawari, Srinagar	2243053	134083
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Dal Lake, Rainawari, Srinagar	815062	52468
+Charminar, Hyderabad, Telangana, India	Dal Lake, Rainawari, Srinagar	2377845	142706
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Dal Lake, Rainawari, Srinagar	3431285	199795
+Dal Lake, Rainawari, Srinagar	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2382387	142459
+Dal Lake, Rainawari, Srinagar	Kaziranga National Park, Kanchanjuri, Assam, India	2976522	177949
+Dal Lake, Rainawari, Srinagar	Konark Sun Temple, Konark, Odisha, India	2545912	161402
+Marina Beach, Chennai, Tamil Nadu, India	Dal Lake, Rainawari, Srinagar	3004618	177325
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Dal Lake, Rainawari, Srinagar	1620405	103158
+Solang Valley, Burwa, Himachal Pradesh, India	Dal Lake, Rainawari, Srinagar	649244	58802
+Jog Falls, Karnataka, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1767699	109178
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Jog Falls, Karnataka, India	755194	44629
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Jog Falls, Karnataka, India	2025413	124411
+Charminar, Hyderabad, Telangana, India	Jog Falls, Karnataka, India	659068	46656
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Jog Falls, Karnataka, India	703404	54215
+Jog Falls, Karnataka, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2674251	186123
+Jog Falls, Karnataka, India	Kaziranga National Park, Kanchanjuri, Assam, India	3268386	221613
+Jog Falls, Karnataka, India	Konark Sun Temple, Konark, Odisha, India	1673796	111940
+Marina Beach, Chennai, Tamil Nadu, India	Jog Falls, Karnataka, India	797301	48165
+Jog Falls, Karnataka, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1262951	73505
+Jog Falls, Karnataka, India	Solang Valley, Burwa, Himachal Pradesh, India	2584769	165998
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1168465	69646
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	262155	17135
+Charminar, Hyderabad, Telangana, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1565347	93152
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	2481563	147381
+Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1609681	97268
+Kaziranga National Park, Kanchanjuri, Assam, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	2203816	132758
+Konark Sun Temple, Konark, Odisha, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	1773206	116211
+Marina Beach, Chennai, Tamil Nadu, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	2192120	127771
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	677804	38192
+Solang Valley, Burwa, Himachal Pradesh, India	Hawa Mahal, Hawa Mahal Road, Badi Choupad, Pink City, Jaipur, Rajasthan, India	821510	58723
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	1427506	84263
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Charminar, Hyderabad, Telangana, India	725214	47903
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	1472073	82949
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2493430	154220
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Kaziranga National Park, Kanchanjuri, Assam, India	3087565	189710
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Konark Sun Temple, Konark, Odisha, India	1821018	115408
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Marina Beach, Chennai, Tamil Nadu, India	1360294	76707
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	549433	32696
+Marine Drive, Chowpatty, Mumbai, Maharashtra, India	Solang Valley, Burwa, Himachal Pradesh, India	1986861	125850
+Charminar, Hyderabad, Telangana, India	Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	1564496	90603
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	2617936	147693
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1569038	90356
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Kaziranga National Park, Kanchanjuri, Assam, India	2163173	125847
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Konark Sun Temple, Konark, Odisha, India	1732563	109299
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Marina Beach, Chennai, Tamil Nadu, India	2191269	125222
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	935880	52944
+Red Fort, Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi, India	Solang Valley, Burwa, Himachal Pradesh, India	556501	44564
+Charminar, Hyderabad, Telangana, India	Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	1032214	59965
+Charminar, Hyderabad, Telangana, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2083953	144950
+Charminar, Hyderabad, Telangana, India	Kaziranga National Park, Kanchanjuri, Assam, India	2678088	180440
+Charminar, Hyderabad, Telangana, India	Konark Sun Temple, Konark, Odisha, India	1083498	70767
+Charminar, Hyderabad, Telangana, India	Marina Beach, Chennai, Tamil Nadu, India	630558	39337
+Charminar, Hyderabad, Telangana, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1232589	77364
+Charminar, Hyderabad, Telangana, India	Solang Valley, Burwa, Himachal Pradesh, India	2112721	135969
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2777858	184071
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Kaziranga National Park, Kanchanjuri, Assam, India	3371993	219561
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Konark Sun Temple, Konark, Odisha, India	1777403	109888
+Marina Beach, Chennai, Tamil Nadu, India	Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	524502	33411
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1975585	110605
+Kodaikanal Lake, Kodaikanal, Tamil Nadu, India	Solang Valley, Burwa, Himachal Pradesh, India	3164749	192342
+Kaziranga National Park, Kanchanjuri, Assam, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	691862	51681
+Konark Sun Temple, Konark, Odisha, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	1089772	81315
+Marina Beach, Chennai, Tamil Nadu, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2266664	153940
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2201894	132834
+Solang Valley, Burwa, Himachal Pradesh, India	Darjeeling Rangeet Valley Passenger Ropeway, Darjeeling, West Bengal, India	2117182	133911
+Kaziranga National Park, Kanchanjuri, Assam, India	Konark Sun Temple, Konark, Odisha, India	1601064	117954
+Marina Beach, Chennai, Tamil Nadu, India	Kaziranga National Park, Kanchanjuri, Assam, India	2777956	190578
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Kaziranga National Park, Kanchanjuri, Assam, India	2713186	169472
+Solang Valley, Burwa, Himachal Pradesh, India	Kaziranga National Park, Kanchanjuri, Assam, India	2628474	170549
+Marina Beach, Chennai, Tamil Nadu, India	Konark Sun Temple, Konark, Odisha, India	1266626	81358
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Konark Sun Temple, Konark, Odisha, India	1786012	117092
+Solang Valley, Burwa, Himachal Pradesh, India	Konark Sun Temple, Konark, Odisha, India	2300671	156304
+Marina Beach, Chennai, Tamil Nadu, India	Sabarmati Ashram, Ahmedabad, Gujarat, India	1858652	104007
+Marina Beach, Chennai, Tamil Nadu, India	Solang Valley, Burwa, Himachal Pradesh, India	2738347	170565
+Sabarmati Ashram, Ahmedabad, Gujarat, India	Solang Valley, Burwa, Himachal Pradesh, India	1497657	95667

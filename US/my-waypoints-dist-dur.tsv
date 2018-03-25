@@ -1,0 +1,79 @@
+waypoint1	waypoint2	distance_m	duration_s
+USS Alabama, Battleship Parkway, Mobile, AL	Grand Canyon National Park, Arizona	2646073	88243
+USS Alabama, Battleship Parkway, Mobile, AL	Toltec Mounds, Scott, AR	708107	26873
+San Andreas Fault, San Benito County, CA	USS Alabama, Battleship Parkway, Mobile, AL	3466651	112170
+USS Alabama, Battleship Parkway, Mobile, AL	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	3852291	123224
+USS Alabama, Battleship Parkway, Mobile, AL	Pikes Peak, Colorado	2157501	75240
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	USS Alabama, Battleship Parkway, Mobile, AL	2107131	69909
+USS Alabama, Battleship Parkway, Mobile, AL	New Castle Historic District, Delaware	1729555	56949
+USS Alabama, Battleship Parkway, Mobile, AL	White House, Pennsylvania Avenue Northwest, Washington, DC	1557759	50846
+Cape Canaveral, FL	USS Alabama, Battleship Parkway, Mobile, AL	879923	27599
+USS Alabama, Battleship Parkway, Mobile, AL	Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	636412	21964
+USS Alabama, Battleship Parkway, Mobile, AL	Craters of the Moon National Monument & Preserve, Arco, ID	3424951	117430
+USS Alabama, Battleship Parkway, Mobile, AL	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	1197214	41539
+Grand Canyon National Park, Arizona	Toltec Mounds, Scott, AR	2095709	67287
+San Andreas Fault, San Benito County, CA	Grand Canyon National Park, Arizona	906136	33213
+Grand Canyon National Park, Arizona	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	1270433	43327
+Grand Canyon National Park, Arizona	Pikes Peak, Colorado	1011769	40623
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Grand Canyon National Park, Arizona	4064134	132607
+Grand Canyon National Park, Arizona	New Castle Historic District, Delaware	3761175	123192
+Grand Canyon National Park, Arizona	White House, Pennsylvania Avenue Northwest, Washington, DC	3686952	119210
+Cape Canaveral, FL	Grand Canyon National Park, Arizona	3533751	115184
+Grand Canyon National Park, Arizona	Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	3298075	107831
+Grand Canyon National Park, Arizona	Craters of the Moon National Monument & Preserve, Arco, ID	1328747	48569
+Grand Canyon National Park, Arizona	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	2486810	80225
+San Andreas Fault, San Benito County, CA	Toltec Mounds, Scott, AR	2818820	93696
+Toltec Mounds, Scott, AR	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	3183117	103810
+Toltec Mounds, Scott, AR	Pikes Peak, Colorado	1599902	53979
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Toltec Mounds, Scott, AR	2169618	72138
+Toltec Mounds, Scott, AR	New Castle Historic District, Delaware	1791560	59206
+White House, Pennsylvania Avenue Northwest, Washington, DC	Toltec Mounds, Scott, AR	1619473	53369
+Cape Canaveral, FL	Toltec Mounds, Scott, AR	1612928	51874
+Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	Toltec Mounds, Scott, AR	1230596	41990
+Craters of the Moon National Monument & Preserve, Arco, ID	Toltec Mounds, Scott, AR	2726879	91884
+Toltec Mounds, Scott, AR	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	722953	24949
+San Andreas Fault, San Benito County, CA	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	454324	18245
+San Andreas Fault, San Benito County, CA	Pikes Peak, Colorado	1839164	65469
+San Andreas Fault, San Benito County, CA	The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	4768592	157155
+San Andreas Fault, San Benito County, CA	New Castle Historic District, Delaware	4483844	149131
+San Andreas Fault, San Benito County, CA	White House, Pennsylvania Avenue Northwest, Washington, DC	4409621	145150
+San Andreas Fault, San Benito County, CA	Cape Canaveral, FL	4349354	139272
+San Andreas Fault, San Benito County, CA	Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	4020743	133770
+San Andreas Fault, San Benito County, CA	Craters of the Moon National Monument & Preserve, Arco, ID	1482495	56856
+San Andreas Fault, San Benito County, CA	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	3217278	105648
+Pikes Peak, Colorado	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	2110237	73526
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	4838232	158280
+New Castle Historic District, Delaware	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	4646132	151725
+White House, Pennsylvania Avenue Northwest, Washington, DC	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	4531562	148097
+Cape Canaveral, FL	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	4733678	150156
+Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	4384310	143741
+Craters of the Moon National Monument & Preserve, Arco, ID	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	1234227	45765
+Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	Cable Car Museum, 94108, 1201 Mason St, San Francisco, CA 94108	3289004	107711
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Pikes Peak, Colorado	3113534	104540
+New Castle Historic District, Delaware	Pikes Peak, Colorado	2810575	95126
+White House, Pennsylvania Avenue Northwest, Washington, DC	Pikes Peak, Colorado	2696005	91498
+Cape Canaveral, FL	Pikes Peak, Colorado	3069133	100483
+Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	Pikes Peak, Colorado	2686800	90599
+Craters of the Moon National Monument & Preserve, Arco, ID	Pikes Peak, Colorado	1322246	50484
+Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	Pikes Peak, Colorado	1493964	51152
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	New Castle Historic District, Delaware	384053	13725
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	White House, Pennsylvania Avenue Northwest, Washington, DC	556289	20206
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Cape Canaveral, FL	1956736	63577
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	1678083	55947
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Craters of the Moon National Monument & Preserve, Arco, ID	3987335	135057
+The Mark Twain House & Museum, Farmington Avenue, Hartford, CT	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	1684999	56119
+White House, Pennsylvania Avenue Northwest, Washington, DC	New Castle Historic District, Delaware	178376	7186
+Cape Canaveral, FL	New Castle Historic District, Delaware	1578823	50557
+Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	New Castle Historic District, Delaware	1300170	42926
+Craters of the Moon National Monument & Preserve, Arco, ID	New Castle Historic District, Delaware	3793774	128610
+Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	New Castle Historic District, Delaware	1382740	46881
+Cape Canaveral, FL	White House, Pennsylvania Avenue Northwest, Washington, DC	1392925	44346
+Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	White House, Pennsylvania Avenue Northwest, Washington, DC	1114272	36715
+Craters of the Moon National Monument & Preserve, Arco, ID	White House, Pennsylvania Avenue Northwest, Washington, DC	3677449	124973
+White House, Pennsylvania Avenue Northwest, Washington, DC	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	1266414	43243
+Cape Canaveral, FL	Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	383254	13098
+Cape Canaveral, FL	Craters of the Moon National Monument & Preserve, Arco, ID	4131614	137773
+Cape Canaveral, FL	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	1787584	57332
+Craters of the Moon National Monument & Preserve, Arco, ID	Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	3750613	127967
+Okefenokee Swamp Park, Okefenokee Swamp Park Road, Waycross, GA	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	1406582	47526
+Craters of the Moon National Monument & Preserve, Arco, ID	Lincoln Home National Historic Site Visitor Center, 426 South 7th Street, Springfield, IL	2438233	84235
